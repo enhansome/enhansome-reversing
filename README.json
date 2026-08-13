@@ -14,7 +14,7 @@
             "last_commit": "2022-08-26T22:56:18Z",
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4050
+            "stars": 4052
           }
         },
         {
@@ -45,7 +45,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T10:05:35Z",
+            "last_commit": "2026-08-13T20:51:23Z",
             "owner": "angr",
             "repo": "angr",
             "stars": 9009
@@ -82,7 +82,7 @@
             "last_commit": "2025-05-16T13:40:55Z",
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8059
+            "stars": 8060
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-04-05T13:42:51Z",
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2027
+            "stars": 2028
           }
         },
         {
@@ -282,7 +282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:26:48.729Z",
+    "last_updated": "2026-08-13T22:06:33.551Z",
     "original_repository": "tylerha97/awesome-reversing",
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
     "enhanced_repository": "enhansome/enhansome-reversing",
