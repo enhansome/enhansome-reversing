@@ -1,0 +1,292 @@
+{
+  "items": [
+    {
+      "description": "Reverse Engineering Courses",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RPISEC Malware Course",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-26T22:56:18Z",
+            "owner": "RPISEC",
+            "repo": "Malware",
+            "stars": 4050
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Offensive and Defensive Android Reversing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-01-02T18:31:28Z",
+            "owner": "rednaga",
+            "repo": "training",
+            "stars": 430
+          }
+        }
+      ],
+      "title": "Courses"
+    },
+    {
+      "description": "Binary Analysis Resources",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "angr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:05:35Z",
+            "owner": "angr",
+            "repo": "angr",
+            "stars": 9009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-05-07T15:28:41Z",
+            "owner": "BinaryAnalysisPlatform",
+            "repo": "bap",
+            "stars": 2248
+          }
+        }
+      ],
+      "title": "Binary Analysis"
+    },
+    {
+      "description": "Dynamic Analysis Tools",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Volatility",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-05-16T13:40:55Z",
+            "owner": "volatilityfoundation",
+            "repo": "volatility",
+            "stars": 8059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiME",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-05T13:42:51Z",
+            "owner": "jtsylve",
+            "repo": "LiME",
+            "stars": 2027
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Noriben",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-26T15:18:05Z",
+            "owner": "Rurik",
+            "repo": "Noriben",
+            "stars": 1289
+          }
+        }
+      ],
+      "title": "Dynamic Analysis"
+    },
+    {
+      "description": "Debugging Tools",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "unicorn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-30T16:17:57Z",
+            "owner": "unicorn-engine",
+            "repo": "unicorn",
+            "stars": 9229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vdb",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T18:43:48Z",
+            "owner": "vivisect",
+            "repo": "vivisect",
+            "stars": 996
+          }
+        }
+      ],
+      "title": "Debugging"
+    },
+    {
+      "description": "Mac Decrypting Tools",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "readmem",
+          "description": "OS X Reverser's process dumping tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2013-10-06T07:58:58Z",
+            "owner": "gdbinit",
+            "repo": "readmem",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AppEncryptor",
+          "description": "Tool for decrypting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2009-04-19T19:55:24Z",
+            "owner": "AlanQuatermain",
+            "repo": "appencryptor",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "Mac Decrypt"
+    },
+    {
+      "description": "Scripting",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "onehawt IDA Plugin List",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-31T03:28:20Z",
+            "owner": "onethawt",
+            "repo": "idaplugins-list",
+            "stars": 3832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pefile Python Libray",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:42:58Z",
+            "owner": "erocarrera",
+            "repo": "pefile",
+            "stars": 2062
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IDA Python Src",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-12-24T22:10:14Z",
+            "owner": "idapython",
+            "repo": "src",
+            "stars": 1536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghidra ninja",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2020-10-07T09:38:51Z",
+            "owner": "ghidraninja",
+            "repo": "ghidra_scripts",
+            "stars": 1165
+          }
+        }
+      ],
+      "title": "Scripting"
+    },
+    {
+      "description": "Yara Resources",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "yarGen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-10T15:02:41Z",
+            "owner": "Neo23x0",
+            "repo": "yarGen",
+            "stars": 1807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yabin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-11T13:17:43Z",
+            "owner": "AlienVault-OTX",
+            "repo": "yabin",
+            "stars": 165
+          }
+        }
+      ],
+      "title": "Yara"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:26:48.729Z",
+    "original_repository": "tylerha97/awesome-reversing",
+    "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
+    "enhanced_repository": "enhansome/enhansome-reversing",
+    "enhanced_repository_description": null,
+    "title": "awesome-reversing with stars"
+  }
+}
