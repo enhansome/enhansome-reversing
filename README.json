@@ -45,7 +45,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T20:51:23Z",
+            "last_commit": "2026-08-14T18:14:25Z",
             "owner": "angr",
             "repo": "angr",
             "stars": 9009
@@ -82,7 +82,7 @@
             "last_commit": "2025-05-16T13:40:55Z",
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8060
+            "stars": 8058
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-04-05T13:42:51Z",
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2028
+            "stars": 2027
           }
         },
         {
@@ -130,7 +130,7 @@
             "last_commit": "2026-07-30T16:17:57Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9229
+            "stars": 9231
           }
         },
         {
@@ -141,7 +141,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-04T18:43:48Z",
+            "last_commit": "2026-08-14T16:31:43Z",
             "owner": "vivisect",
             "repo": "vivisect",
             "stars": 996
@@ -209,10 +209,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T16:42:58Z",
+            "last_commit": "2026-08-14T18:43:30Z",
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2062
+            "stars": 2061
           }
         },
         {
@@ -260,7 +260,7 @@
             "last_commit": "2026-01-10T15:02:41Z",
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1807
+            "stars": 1808
           }
         },
         {
@@ -282,7 +282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T22:06:33.551Z",
+    "last_updated": "2026-08-14T21:44:04.934Z",
     "original_repository": "tylerha97/awesome-reversing",
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
     "enhanced_repository": "enhansome/enhansome-reversing",
