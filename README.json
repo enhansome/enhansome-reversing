@@ -14,7 +14,7 @@
             "last_commit": "2022-08-26T22:56:18Z",
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4052
+            "stars": 4053
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2018-01-02T18:31:28Z",
             "owner": "rednaga",
             "repo": "training",
-            "stars": 430
+            "stars": 429
           }
         }
       ],
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T18:14:25Z",
+            "last_commit": "2026-08-15T17:44:02Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9009
+            "stars": 9012
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-05-07T15:28:41Z",
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
-            "stars": 2248
+            "stars": 2249
           }
         }
       ],
@@ -82,7 +82,7 @@
             "last_commit": "2025-05-16T13:40:55Z",
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8058
+            "stars": 8059
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-04-05T13:42:51Z",
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2027
+            "stars": 2028
           }
         },
         {
@@ -130,7 +130,7 @@
             "last_commit": "2026-07-30T16:17:57Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9231
+            "stars": 9235
           }
         },
         {
@@ -141,7 +141,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:31:43Z",
+            "last_commit": "2026-08-15T06:34:02Z",
             "owner": "vivisect",
             "repo": "vivisect",
             "stars": 996
@@ -212,7 +212,7 @@
             "last_commit": "2026-08-14T18:43:30Z",
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2061
+            "stars": 2062
           }
         },
         {
@@ -282,7 +282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:44:04.934Z",
+    "last_updated": "2026-08-15T21:39:30.502Z",
     "original_repository": "tylerha97/awesome-reversing",
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
     "enhanced_repository": "enhansome/enhansome-reversing",
