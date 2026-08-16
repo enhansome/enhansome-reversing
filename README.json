@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T17:44:02Z",
+            "last_commit": "2026-08-16T02:11:04Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9012
+            "stars": 9016
           }
         },
         {
@@ -130,7 +130,7 @@
             "last_commit": "2026-07-30T16:17:57Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9235
+            "stars": 9238
           }
         },
         {
@@ -144,7 +144,7 @@
             "last_commit": "2026-08-15T06:34:02Z",
             "owner": "vivisect",
             "repo": "vivisect",
-            "stars": 996
+            "stars": 997
           }
         }
       ],
@@ -198,7 +198,7 @@
             "last_commit": "2024-05-31T03:28:20Z",
             "owner": "onethawt",
             "repo": "idaplugins-list",
-            "stars": 3832
+            "stars": 3833
           }
         },
         {
@@ -282,7 +282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:39:30.502Z",
+    "last_updated": "2026-08-16T21:37:54.154Z",
     "original_repository": "tylerha97/awesome-reversing",
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
     "enhanced_repository": "enhansome/enhansome-reversing",
