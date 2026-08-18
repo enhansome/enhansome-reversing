@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T21:28:23Z",
+            "last_commit": "2026-08-18T21:08:01Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9017
+            "stars": 9020
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2026-03-26T15:18:05Z",
             "owner": "Rurik",
             "repo": "Noriben",
-            "stars": 1289
+            "stars": 1291
           }
         }
       ],
@@ -130,7 +130,7 @@
             "last_commit": "2026-07-30T16:17:57Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9237
+            "stars": 9242
           }
         },
         {
@@ -144,7 +144,7 @@
             "last_commit": "2026-08-15T06:34:02Z",
             "owner": "vivisect",
             "repo": "vivisect",
-            "stars": 998
+            "stars": 999
           }
         }
       ],
@@ -212,7 +212,7 @@
             "last_commit": "2026-08-14T18:43:30Z",
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2062
+            "stars": 2061
           }
         },
         {
@@ -282,7 +282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:44:22.130Z",
+    "last_updated": "2026-08-18T21:42:18.665Z",
     "original_repository": "tylerha97/awesome-reversing",
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
     "enhanced_repository": "enhansome/enhansome-reversing",
