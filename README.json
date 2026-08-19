@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49282041,
             "language": null,
             "last_commit": "2022-08-26T22:56:18Z",
             "owner": "RPISEC",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40508797,
             "language": null,
             "last_commit": "2018-01-02T18:31:28Z",
             "owner": "rednaga",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40328394,
             "language": "Python",
-            "last_commit": "2026-08-18T21:08:01Z",
+            "last_commit": "2026-08-19T10:39:45Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9020
+            "stars": 9022
           }
         },
         {
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25968851,
             "language": "OCaml",
             "last_commit": "2026-05-07T15:28:41Z",
             "owner": "BinaryAnalysisPlatform",
@@ -78,6 +82,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 19114225,
             "language": "Python",
             "last_commit": "2025-05-16T13:40:55Z",
             "owner": "volatilityfoundation",
@@ -92,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24379459,
             "language": "C",
             "last_commit": "2026-04-05T13:42:51Z",
             "owner": "jtsylve",
@@ -106,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9355482,
             "language": "Python",
             "last_commit": "2026-03-26T15:18:05Z",
             "owner": "Rurik",
@@ -126,11 +133,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41107037,
             "language": "C",
             "last_commit": "2026-07-30T16:17:57Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9242
+            "stars": 9244
           }
         },
         {
@@ -140,6 +148,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26651759,
             "language": "Python",
             "last_commit": "2026-08-15T06:34:02Z",
             "owner": "vivisect",
@@ -160,6 +169,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3644310,
             "language": "C",
             "last_commit": "2013-10-06T07:58:58Z",
             "owner": "gdbinit",
@@ -174,6 +184,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180238,
             "language": "C",
             "last_commit": "2009-04-19T19:55:24Z",
             "owner": "AlanQuatermain",
@@ -194,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42556260,
             "language": null,
             "last_commit": "2024-05-31T03:28:20Z",
             "owner": "onethawt",
@@ -208,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33870982,
             "language": "Python",
             "last_commit": "2026-08-14T18:43:30Z",
             "owner": "erocarrera",
@@ -222,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 32229857,
             "language": "Python",
             "last_commit": "2025-12-24T22:10:14Z",
             "owner": "idapython",
@@ -236,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174371514,
             "language": "YARA",
             "last_commit": "2020-10-07T09:38:51Z",
             "owner": "ghidraninja",
@@ -256,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15494190,
             "language": "Python",
             "last_commit": "2026-01-10T15:02:41Z",
             "owner": "Neo23x0",
@@ -270,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102598791,
             "language": "Python",
             "last_commit": "2022-09-11T13:17:43Z",
             "owner": "AlienVault-OTX",
@@ -282,8 +299,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:42:18.665Z",
+    "last_updated": "2026-08-19T12:52:00.597Z",
     "original_repository": "tylerha97/awesome-reversing",
+    "original_repository_id": 53292594,
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
     "enhanced_repository": "enhansome/enhansome-reversing",
     "enhanced_repository_description": null,
