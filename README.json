@@ -15,7 +15,7 @@
             "last_commit": "2022-08-26T22:56:18Z",
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4053
+            "stars": 4052
           }
         },
         {
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 40328394,
             "language": "Python",
-            "last_commit": "2026-08-19T10:39:45Z",
+            "last_commit": "2026-08-19T20:11:12Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9022
+            "stars": 9023
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-07-30T16:17:57Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9244
+            "stars": 9247
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-01-10T15:02:41Z",
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1809
+            "stars": 1808
           }
         },
         {
@@ -299,7 +299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:52:00.597Z",
+    "last_updated": "2026-08-19T21:44:51.214Z",
     "original_repository": "tylerha97/awesome-reversing",
     "original_repository_id": 53292594,
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
