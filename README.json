@@ -15,7 +15,7 @@
             "last_commit": "2022-08-26T22:56:18Z",
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4052
+            "stars": 4053
           }
         },
         {
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 40328394,
             "language": "Python",
-            "last_commit": "2026-08-19T20:11:12Z",
+            "last_commit": "2026-08-20T18:39:51Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9023
+            "stars": 9021
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2026-04-05T13:42:51Z",
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2028
+            "stars": 2029
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-07-30T16:17:57Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9247
+            "stars": 9249
           }
         },
         {
@@ -150,7 +150,7 @@
             "archived": false,
             "id": 26651759,
             "language": "Python",
-            "last_commit": "2026-08-15T06:34:02Z",
+            "last_commit": "2026-08-20T13:31:38Z",
             "owner": "vivisect",
             "repo": "vivisect",
             "stars": 999
@@ -210,7 +210,7 @@
             "last_commit": "2024-05-31T03:28:20Z",
             "owner": "onethawt",
             "repo": "idaplugins-list",
-            "stars": 3834
+            "stars": 3833
           }
         },
         {
@@ -222,10 +222,10 @@
             "archived": false,
             "id": 33870982,
             "language": "Python",
-            "last_commit": "2026-08-14T18:43:30Z",
+            "last_commit": "2026-08-20T18:42:59Z",
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2061
+            "stars": 2062
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-01-10T15:02:41Z",
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1808
+            "stars": 1809
           }
         },
         {
@@ -299,7 +299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:44:51.214Z",
+    "last_updated": "2026-08-20T21:48:04.609Z",
     "original_repository": "tylerha97/awesome-reversing",
     "original_repository_id": 53292594,
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
