@@ -48,10 +48,10 @@
             "archived": false,
             "id": 40328394,
             "language": "Python",
-            "last_commit": "2026-08-22T20:11:24Z",
+            "last_commit": "2026-08-23T21:13:09Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9026
+            "stars": 9028
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-05-07T15:28:41Z",
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
-            "stars": 2250
+            "stars": 2251
           }
         }
       ],
@@ -138,7 +138,7 @@
             "last_commit": "2026-07-30T16:17:57Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9253
+            "stars": 9258
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-08-20T13:31:38Z",
             "owner": "vivisect",
             "repo": "vivisect",
-            "stars": 999
+            "stars": 1000
           }
         }
       ],
@@ -299,7 +299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T21:40:40.701Z",
+    "last_updated": "2026-08-23T21:40:02.460Z",
     "original_repository": "tylerha97/awesome-reversing",
     "original_repository_id": 53292594,
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
