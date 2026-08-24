@@ -148,7 +148,7 @@ A curated list of awesome reversing resources
 
 *Binary Analysis Resources*
 
-* [angr](https://github.com/angr/angr) ⭐ 9,030 | 🐛 684 | 🌐 Python | 📅 2026-08-24
+* [angr](https://github.com/angr/angr) ⭐ 9,030 | 🐛 645 | 🌐 Python | 📅 2026-08-24
 * [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,252 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [z3](https://z3.codeplex.com/)
@@ -198,7 +198,7 @@ A curated list of awesome reversing resources
 
 *Debugging Tools*
 
-* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,259 | 🐛 216 | 🌐 C | 📅 2026-07-30
+* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,260 | 🐛 216 | 🌐 C | 📅 2026-07-30
 * [vdb](https://github.com/vivisect/vivisect) ⭐ 1,000 | 🐛 118 | 🌐 Python | 📅 2026-08-20
 * [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
 * [OllyDbg v1.10](http://www.ollydbg.de/)
