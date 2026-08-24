@@ -43,7 +43,7 @@ A curated list of awesome reversing resources
 * [The Rootkit Arsenal](http://amzn.com/144962636X)
 * [Windows Internals Part 1](http://amzn.com/0735648735) [Part 2](http://amzn.com/0735665877)
 * [Inside Windows Debugging](http://amzn.com/0735662789)
-* [iOS Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) ⭐ 4,417 | 🐛 7 | 📅 2015-10-30
+* [iOS Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) ⭐ 4,416 | 🐛 7 | 📅 2015-10-30
 * [The Shellcoders Handbook](http://a.co/6H55943)
 * [A Guide to Kernel Exploitation](http://a.co/aM4cENn)
 * [Agner's software optimization resources](http://www.agner.org/optimize/)
@@ -117,13 +117,13 @@ A curated list of awesome reversing resources
 
 *Binary Format Tools*
 
+* [MachoView](https://github.com/gdbinit/MachOView) ⭐ 2,868 | 🐛 17 | 🌐 C | 📅 2024-07-22
 * [CFF Explorer](http://www.ntcore.com/exsuite.php)
 * [Cerbero Profiler](http://cerbero.io/profiler/) // [Lite PE Insider](http://cerbero.io/peinsider/)
 * [Detect It Easy](http://ntinfo.biz/)
 * [PeStudio](http://www.winitor.com/)
 * [PEiD](https://tuts4you.com/download.php?view.398)
 * [PPEE](https://www.mzrst.com/)
-* [MachoView](https://github.com/gdbinit/MachOView) ⭐ 2,868 | 🐛 17 | 🌐 C | 📅 2024-07-22
 * [nm](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/nm.1.html) - View Symbols
 * [file](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/file.1.html) - File information
 * [codesign](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/codesign.1.html) - Code signing information usage: codesign -dvvv filename
@@ -132,6 +132,7 @@ A curated list of awesome reversing resources
 
 *Disassemblers/Decompilers*
 
+* [fREedom](https://github.com/cseagle/fREedom) ⭐ 230 | 🐛 0 | 🌐 PLpgSQL | 📅 2016-06-08
 * [Ghidra](https://ghidra-sre.org/)
 * [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
 * [Binary Ninja](https://binary.ninja/)
@@ -140,7 +141,6 @@ A curated list of awesome reversing resources
 * [Hopper](http://hopperapp.com/)
 * [Capstone](http://www.capstone-engine.org/)
 * [objdump](http://linux.die.net/man/1/objdump)
-* [fREedom](https://github.com/cseagle/fREedom) ⭐ 230 | 🐛 0 | 🌐 PLpgSQL | 📅 2016-06-08
 * [Retdec](https://retdec.com/)
 * [Snowman](https://derevenets.com/)
 
@@ -148,8 +148,8 @@ A curated list of awesome reversing resources
 
 *Binary Analysis Resources*
 
-* [angr](https://github.com/angr/angr) ⭐ 9,028 | 🐛 680 | 🌐 Python | 📅 2026-08-23
-* [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,251 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07
+* [angr](https://github.com/angr/angr) ⭐ 9,030 | 🐛 684 | 🌐 Python | 📅 2026-08-24
+* [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,252 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [z3](https://z3.codeplex.com/)
 
@@ -166,8 +166,8 @@ A curated list of awesome reversing resources
 
 *Import Reconstruction Tools*
 
-* [ImpRec](http://www.woodmann.com/collaborative/tools/index.php/ImpREC)
 * [Scylla](https://github.com/NtQuery/Scylla) ⭐ 1,417 | 🐛 23 | 🌐 C++ | 📅 2023-04-05
+* [ImpRec](http://www.woodmann.com/collaborative/tools/index.php/ImpREC)
 * [LordPE](http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip)
 
 ## Dynamic Analysis
@@ -198,7 +198,7 @@ A curated list of awesome reversing resources
 
 *Debugging Tools*
 
-* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,258 | 🐛 215 | 🌐 C | 📅 2026-07-30
+* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,259 | 🐛 216 | 🌐 C | 📅 2026-07-30
 * [vdb](https://github.com/vivisect/vivisect) ⭐ 1,000 | 🐛 118 | 🌐 Python | 📅 2026-08-20
 * [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
 * [OllyDbg v1.10](http://www.ollydbg.de/)
@@ -249,7 +249,7 @@ A curated list of awesome reversing resources
 
 * [Android Developer Studio](http://developer.android.com/sdk/index.html)
 * [APKtool](http://ibotpeaches.github.io/Apktool/)
-* [dex2jar](https://github.com/pxb1988/dex2jar) ⭐ 13,135 | 🐛 379 | 🌐 Java | 📅 2024-07-21
+* [dex2jar](https://github.com/pxb1988/dex2jar) ⭐ 13,137 | 🐛 379 | 🌐 Java | 📅 2024-07-21
 * [Bytecode Viewer](https://bytecodeviewer.com/)
 * [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
 
@@ -265,4 +265,4 @@ A curated list of awesome reversing resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

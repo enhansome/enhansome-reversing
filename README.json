@@ -37,6 +37,48 @@
       "title": "Courses"
     },
     {
+      "description": "Binary Format Tools",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MachoView",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6203497,
+            "language": "C",
+            "last_commit": "2024-07-22T07:29:07Z",
+            "owner": "gdbinit",
+            "repo": "MachOView",
+            "stars": 2868
+          }
+        }
+      ],
+      "title": "Binary Format"
+    },
+    {
+      "description": "Disassemblers/Decompilers",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fREedom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48191995,
+            "language": "PLpgSQL",
+            "last_commit": "2016-06-08T08:45:39Z",
+            "owner": "cseagle",
+            "repo": "fREedom",
+            "stars": 230
+          }
+        }
+      ],
+      "title": "Disassemblers/Decompilers"
+    },
+    {
       "description": "Binary Analysis Resources",
       "items": [
         {
@@ -48,10 +90,10 @@
             "archived": false,
             "id": 40328394,
             "language": "Python",
-            "last_commit": "2026-08-23T21:13:09Z",
+            "last_commit": "2026-08-24T08:43:42Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9028
+            "stars": 9030
           }
         },
         {
@@ -66,11 +108,53 @@
             "last_commit": "2026-05-07T15:28:41Z",
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
-            "stars": 2251
+            "stars": 2252
           }
         }
       ],
       "title": "Binary Analysis"
+    },
+    {
+      "description": "Bytecode Analysis Tools",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dnSpy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 38380854,
+            "language": "C#",
+            "last_commit": "2020-12-20T23:55:15Z",
+            "owner": "dnSpy",
+            "repo": "dnSpy",
+            "stars": 29687
+          }
+        }
+      ],
+      "title": "Bytecode Analysis"
+    },
+    {
+      "description": "Import Reconstruction Tools",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Scylla",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2380532,
+            "language": "C++",
+            "last_commit": "2023-04-05T14:57:59Z",
+            "owner": "NtQuery",
+            "repo": "Scylla",
+            "stars": 1417
+          }
+        }
+      ],
+      "title": "Import Reconstruction"
     },
     {
       "description": "Dynamic Analysis Tools",
@@ -138,7 +222,7 @@
             "last_commit": "2026-07-30T16:17:57Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9258
+            "stars": 9259
           }
         },
         {
@@ -299,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:40:02.460Z",
+    "last_updated": "2026-08-24T13:59:56.512Z",
     "original_repository": "tylerha97/awesome-reversing",
     "original_repository_id": 53292594,
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
