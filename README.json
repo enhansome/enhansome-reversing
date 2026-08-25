@@ -90,10 +90,10 @@
             "archived": false,
             "id": 40328394,
             "language": "Python",
-            "last_commit": "2026-08-25T05:35:45Z",
+            "last_commit": "2026-08-25T21:15:25Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9033
+            "stars": 9034
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2020-12-20T23:55:15Z",
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29687
+            "stars": 29688
           }
         }
       ],
@@ -150,7 +150,7 @@
             "last_commit": "2023-04-05T14:57:59Z",
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1417
+            "stars": 1418
           }
         }
       ],
@@ -201,7 +201,7 @@
             "last_commit": "2026-03-26T15:18:05Z",
             "owner": "Rurik",
             "repo": "Noriben",
-            "stars": 1291
+            "stars": 1292
           }
         }
       ],
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:49:51.068Z",
+    "last_updated": "2026-08-25T21:47:45.393Z",
     "original_repository": "tylerha97/awesome-reversing",
     "original_repository_id": 53292594,
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
