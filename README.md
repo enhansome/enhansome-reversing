@@ -56,7 +56,7 @@ A curated list of awesome reversing resources
 
 *Reverse Engineering Courses*
 
-* [RPISEC Malware Course](https://github.com/RPISEC/Malware) ⭐ 4,059 | 🐛 1 | 📅 2022-08-26
+* [RPISEC Malware Course](https://github.com/RPISEC/Malware) ⭐ 4,060 | 🐛 1 | 📅 2022-08-26
 * [Offensive and Defensive Android Reversing](https://github.com/rednaga/training/raw/master/DEFCON23/O%26D%20-%20Android%20Reverse%20Engineering.pdf) ⭐ 429 | 🐛 0 | 📅 2018-01-02
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 * [Open Security Training](http://opensecuritytraining.info/Training.html)
@@ -148,8 +148,8 @@ A curated list of awesome reversing resources
 
 *Binary Analysis Resources*
 
-* [angr](https://github.com/angr/angr) ⭐ 9,039 | 🐛 689 | 🌐 Python | 📅 2026-08-27
-* [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,253 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07
+* [angr](https://github.com/angr/angr) ⭐ 9,040 | 🐛 692 | 🌐 Python | 📅 2026-08-27
+* [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,254 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [z3](https://z3.codeplex.com/)
 
@@ -198,7 +198,7 @@ A curated list of awesome reversing resources
 
 *Debugging Tools*
 
-* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,268 | 🐛 216 | 🌐 C | 📅 2026-07-30
+* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,270 | 🐛 215 | 🌐 C | 📅 2026-08-27
 * [vdb](https://github.com/vivisect/vivisect) ⭐ 1,000 | 🐛 118 | 🌐 Python | 📅 2026-08-20
 * [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
 * [OllyDbg v1.10](http://www.ollydbg.de/)
@@ -234,7 +234,7 @@ A curated list of awesome reversing resources
 *Scripting*
 
 * [onehawt IDA Plugin List](https://github.com/onethawt/idaplugins-list) ⭐ 3,832 | 🐛 8 | 📅 2024-05-31
-* [pefile Python Libray](https://github.com/erocarrera/pefile) ⭐ 2,064 | 🐛 62 | 🌐 Python | 📅 2026-08-21
+* [pefile Python Libray](https://github.com/erocarrera/pefile) ⭐ 2,064 | 🐛 63 | 🌐 Python | 📅 2026-08-21
 * [IDA Python Src](https://github.com/idapython/src) ⚠️ Archived
 * [ghidra ninja](https://github.com/ghidraninja/ghidra_scripts) ⭐ 1,165 | 🐛 13 | 🌐 YARA | 📅 2020-10-07
 * [IDC Functions Doc](https://www.hex-rays.com/products/ida/support/idadoc/162.shtml)

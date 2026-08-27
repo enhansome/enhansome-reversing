@@ -15,7 +15,7 @@
             "last_commit": "2022-08-26T22:56:18Z",
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4059
+            "stars": 4060
           }
         },
         {
@@ -90,10 +90,10 @@
             "archived": false,
             "id": 40328394,
             "language": "Python",
-            "last_commit": "2026-08-27T00:42:37Z",
+            "last_commit": "2026-08-27T11:12:02Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9039
+            "stars": 9040
           }
         },
         {
@@ -108,7 +108,7 @@
             "last_commit": "2026-05-07T15:28:41Z",
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
-            "stars": 2253
+            "stars": 2254
           }
         }
       ],
@@ -129,7 +129,7 @@
             "last_commit": "2020-12-20T23:55:15Z",
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29689
+            "stars": 29691
           }
         }
       ],
@@ -219,10 +219,10 @@
             "archived": false,
             "id": 41107037,
             "language": "C",
-            "last_commit": "2026-07-30T16:17:57Z",
+            "last_commit": "2026-08-27T11:23:41Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9268
+            "stars": 9270
           }
         },
         {
@@ -383,9 +383,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:51:41.565Z",
-    "original_repository": "tylerha97/awesome-reversing",
-    "original_repository_id": 53292594,
+    "last_updated": "2026-08-27T12:00:47.114Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 53292594,
+      "language": null,
+      "last_commit": "2023-08-19T07:30:45Z",
+      "owner": "tylerha97",
+      "repo": "awesome-reversing",
+      "stars": 4514
+    },
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
     "enhanced_repository": "enhansome/enhansome-reversing",
     "enhanced_repository_description": null,
