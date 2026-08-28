@@ -15,8 +15,9 @@
             "last_commit": "2022-08-26T22:56:18Z",
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4060
-          }
+            "stars": 4063
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "rednaga",
             "repo": "training",
             "stars": 429
-          }
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         }
       ],
       "title": "Courses"
@@ -52,7 +54,8 @@
             "owner": "gdbinit",
             "repo": "MachOView",
             "stars": 2868
-          }
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         }
       ],
       "title": "Binary Format"
@@ -73,7 +76,8 @@
             "owner": "cseagle",
             "repo": "fREedom",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         }
       ],
       "title": "Disassemblers/Decompilers"
@@ -90,11 +94,12 @@
             "archived": false,
             "id": 40328394,
             "language": "Python",
-            "last_commit": "2026-08-27T11:12:02Z",
+            "last_commit": "2026-08-28T04:53:43Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9040
-          }
+            "stars": 9042
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         },
         {
           "node_type": "item",
@@ -109,7 +114,8 @@
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
             "stars": 2254
-          }
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         }
       ],
       "title": "Binary Analysis"
@@ -130,7 +136,8 @@
             "owner": "dnSpy",
             "repo": "dnSpy",
             "stars": 29691
-          }
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         }
       ],
       "title": "Bytecode Analysis"
@@ -151,7 +158,8 @@
             "owner": "NtQuery",
             "repo": "Scylla",
             "stars": 1418
-          }
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         }
       ],
       "title": "Import Reconstruction"
@@ -171,8 +179,9 @@
             "last_commit": "2025-05-16T13:40:55Z",
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8061
-          }
+            "stars": 8062
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         },
         {
           "node_type": "item",
@@ -187,7 +196,8 @@
             "owner": "jtsylve",
             "repo": "LiME",
             "stars": 2028
-          }
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         },
         {
           "node_type": "item",
@@ -201,8 +211,9 @@
             "last_commit": "2026-03-26T15:18:05Z",
             "owner": "Rurik",
             "repo": "Noriben",
-            "stars": 1297
-          }
+            "stars": 1298
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         }
       ],
       "title": "Dynamic Analysis"
@@ -222,8 +233,9 @@
             "last_commit": "2026-08-27T11:23:41Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9270
-          }
+            "stars": 9269
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         },
         {
           "node_type": "item",
@@ -238,7 +250,8 @@
             "owner": "vivisect",
             "repo": "vivisect",
             "stars": 1000
-          }
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         }
       ],
       "title": "Debugging"
@@ -259,7 +272,8 @@
             "owner": "gdbinit",
             "repo": "readmem",
             "stars": 235
-          }
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         },
         {
           "node_type": "item",
@@ -274,7 +288,8 @@
             "owner": "AlanQuatermain",
             "repo": "appencryptor",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         }
       ],
       "title": "Mac Decrypt"
@@ -295,7 +310,8 @@
             "owner": "onethawt",
             "repo": "idaplugins-list",
             "stars": 3832
-          }
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         },
         {
           "node_type": "item",
@@ -310,7 +326,8 @@
             "owner": "erocarrera",
             "repo": "pefile",
             "stars": 2064
-          }
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         },
         {
           "node_type": "item",
@@ -325,7 +342,8 @@
             "owner": "idapython",
             "repo": "src",
             "stars": 1536
-          }
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         },
         {
           "node_type": "item",
@@ -340,7 +358,8 @@
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
             "stars": 1165
-          }
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         }
       ],
       "title": "Scripting"
@@ -361,7 +380,8 @@
             "owner": "Neo23x0",
             "repo": "yarGen",
             "stars": 1811
-          }
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         },
         {
           "node_type": "item",
@@ -376,14 +396,15 @@
             "owner": "AlienVault-OTX",
             "repo": "yabin",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T05:28:30.950Z"
         }
       ],
       "title": "Yara"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:00:47.114Z",
+    "last_updated": "2026-08-28T05:28:30.950Z",
     "original_repository_info": {
       "archived": false,
       "id": 53292594,
@@ -391,7 +412,7 @@
       "last_commit": "2023-08-19T07:30:45Z",
       "owner": "tylerha97",
       "repo": "awesome-reversing",
-      "stars": 4514
+      "stars": 4513
     },
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
     "enhanced_repository": "enhansome/enhansome-reversing",
