@@ -94,7 +94,7 @@
             "archived": false,
             "id": 40328394,
             "language": "Python",
-            "last_commit": "2026-08-28T04:53:43Z",
+            "last_commit": "2026-08-29T03:02:59Z",
             "owner": "angr",
             "repo": "angr",
             "stars": 9042
@@ -195,7 +195,7 @@
             "last_commit": "2026-04-05T13:42:51Z",
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2028
+            "stars": 2029
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         },
@@ -211,7 +211,7 @@
             "last_commit": "2026-03-26T15:18:05Z",
             "owner": "Rurik",
             "repo": "Noriben",
-            "stars": 1298
+            "stars": 1299
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         }
@@ -230,10 +230,10 @@
             "archived": false,
             "id": 41107037,
             "language": "C",
-            "last_commit": "2026-08-27T11:23:41Z",
+            "last_commit": "2026-08-28T09:09:56Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9269
+            "stars": 9270
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         },
@@ -309,7 +309,7 @@
             "last_commit": "2024-05-31T03:28:20Z",
             "owner": "onethawt",
             "repo": "idaplugins-list",
-            "stars": 3832
+            "stars": 3833
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         },
@@ -322,10 +322,10 @@
             "archived": false,
             "id": 33870982,
             "language": "Python",
-            "last_commit": "2026-08-21T22:29:03Z",
+            "last_commit": "2026-08-28T08:22:38Z",
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2064
+            "stars": 2065
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         },
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:28:30.950Z",
+    "last_updated": "2026-08-29T03:12:03.560Z",
     "original_repository_info": {
       "archived": false,
       "id": 53292594,
