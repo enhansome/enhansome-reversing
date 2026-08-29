@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Course materials for Malware Analysis by RPISEC",
+            "homepage": null,
             "id": 49282041,
             "language": null,
+            "license": null,
             "last_commit": "2022-08-26T22:56:18Z",
+            "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4063
+            "stars": 4063,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Training materials crafted and publicly provided by Red Naga members",
+            "homepage": null,
             "id": 40508797,
             "language": null,
+            "license": null,
             "last_commit": "2018-01-02T18:31:28Z",
+            "open_issues": 0,
             "owner": "rednaga",
             "repo": "training",
-            "stars": 429
+            "stars": 429,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         }
@@ -48,12 +58,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MachOView fork",
+            "homepage": null,
             "id": 6203497,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2024-07-22T07:29:07Z",
+            "open_issues": 17,
             "owner": "gdbinit",
             "repo": "MachOView",
-            "stars": 2868
+            "stars": 2868,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         }
@@ -70,12 +85,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "capstone based disassembler for extracting to binnavi",
+            "homepage": null,
             "id": 48191995,
             "language": "PLpgSQL",
+            "license": "GPL-2.0",
             "last_commit": "2016-06-08T08:45:39Z",
+            "open_issues": 0,
             "owner": "cseagle",
             "repo": "fREedom",
-            "stars": 230
+            "stars": 230,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         }
@@ -92,12 +112,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful and user-friendly binary analysis platform!",
+            "homepage": "http://angr.io",
             "id": 40328394,
             "language": "Python",
-            "last_commit": "2026-08-29T03:02:59Z",
+            "license": "BSD-2-Clause",
+            "last_commit": "2026-08-29T04:13:31Z",
+            "open_issues": 713,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9042
+            "stars": 9042,
+            "topics": [
+              "analysis",
+              "angr",
+              "binary",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         },
@@ -108,12 +138,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Binary Analysis Platform",
+            "homepage": null,
             "id": 25968851,
             "language": "OCaml",
+            "license": "MIT",
             "last_commit": "2026-05-07T15:28:41Z",
+            "open_issues": 43,
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
-            "stars": 2254
+            "stars": 2254,
+            "topics": [
+              "arm",
+              "bap",
+              "binary-analysis",
+              "disassembler",
+              "dynamic-analysis",
+              "emulator",
+              "instruction-semantics",
+              "lifter",
+              "mips",
+              "ocaml",
+              "powerpc",
+              "program-analysis",
+              "program-verification",
+              "reverse-engineering",
+              "security",
+              "static-analysis",
+              "symbolic-execution",
+              "taint-analysis",
+              "x86"
+            ]
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         }
@@ -130,12 +185,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ".NET debugger and assembly editor",
+            "homepage": null,
             "id": 38380854,
             "language": "C#",
+            "license": null,
             "last_commit": "2020-12-20T23:55:15Z",
+            "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29691
+            "stars": 29691,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         }
@@ -152,12 +212,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Imports Reconstructor",
+            "homepage": null,
             "id": 2380532,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2023-04-05T14:57:59Z",
+            "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1418
+            "stars": 1418,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         }
@@ -174,12 +239,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An advanced memory forensics framework",
+            "homepage": "http://volatilityfoundation.org/",
             "id": 19114225,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2025-05-16T13:40:55Z",
+            "open_issues": 222,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8062
+            "stars": 8062,
+            "topics": [
+              "malware",
+              "memory",
+              "python",
+              "ram",
+              "volatility-framework"
+            ]
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         },
@@ -190,12 +266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LiME (formerly DMD) is a Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, such as those powered by Android. The tool supports acquiring memory either to the file system of the device or over the network. LiME is unique in that it is the first tool that allows full memory captures from Android devices. It also minimizes its interaction between user and kernel space processes during acquisition, which allows it to produce memory captures that are more forensically sound than those of other tools designed for Linux memory acquisition.",
+            "homepage": null,
             "id": 24379459,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-04-05T13:42:51Z",
+            "open_issues": 35,
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2029
+            "stars": 2029,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         },
@@ -206,12 +287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Noriben - Portable, Simple, Malware Analysis Sandbox",
+            "homepage": null,
             "id": 9355482,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-26T15:18:05Z",
+            "open_issues": 9,
             "owner": "Rurik",
             "repo": "Noriben",
-            "stars": 1299
+            "stars": 1299,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         }
@@ -228,12 +314,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)",
+            "homepage": "http://www.unicorn-engine.org",
             "id": 41107037,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T09:09:56Z",
+            "open_issues": 213,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9270
+            "stars": 9270,
+            "topics": [
+              "arm",
+              "arm64",
+              "cpu",
+              "cpu-emulator",
+              "emulator",
+              "framework",
+              "m68k",
+              "mips",
+              "powerpc",
+              "reverse-engineering",
+              "riscv",
+              "s390x",
+              "security",
+              "sparc",
+              "systemz",
+              "tricore",
+              "x86",
+              "x86-64"
+            ]
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         },
@@ -244,12 +354,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 26651759,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T13:31:38Z",
+            "open_issues": 118,
             "owner": "vivisect",
             "repo": "vivisect",
-            "stars": 1000
+            "stars": 1000,
+            "topics": [
+              "disassembler",
+              "emulation",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         }
@@ -266,12 +385,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small OS X/iOS userland util to dump processes memory",
+            "homepage": "http://reverse.put.as",
             "id": 3644310,
             "language": "C",
+            "license": null,
             "last_commit": "2013-10-06T07:58:58Z",
+            "open_issues": 3,
             "owner": "gdbinit",
             "repo": "readmem",
-            "stars": 235
+            "stars": 235,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         },
@@ -282,12 +406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command-line tool to apply or remove Apple Binary Protection from an application.",
+            "homepage": null,
             "id": 180238,
             "language": "C",
+            "license": null,
             "last_commit": "2009-04-19T19:55:24Z",
+            "open_issues": 1,
             "owner": "AlanQuatermain",
             "repo": "appencryptor",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         }
@@ -304,12 +433,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of IDA Plugins",
+            "homepage": null,
             "id": 42556260,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-31T03:28:20Z",
+            "open_issues": 8,
             "owner": "onethawt",
             "repo": "idaplugins-list",
-            "stars": 3833
+            "stars": 3833,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         },
@@ -320,12 +454,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pefile is a Python module to read and work with PE (Portable Executable) files",
+            "homepage": null,
             "id": 33870982,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T08:22:38Z",
+            "open_issues": 61,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2065
+            "stars": 2065,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         },
@@ -336,12 +475,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "IDAPython project for Hex-Ray's IDA Pro",
+            "homepage": "http://www.hex-rays.com/",
             "id": 32229857,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-24T22:10:14Z",
+            "open_issues": 6,
             "owner": "idapython",
             "repo": "src",
-            "stars": 1536
+            "stars": 1536,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         },
@@ -352,12 +496,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scripts for the Ghidra software reverse engineering suite.",
+            "homepage": null,
             "id": 174371514,
             "language": "YARA",
+            "license": "GPL-3.0",
             "last_commit": "2020-10-07T09:38:51Z",
+            "open_issues": 13,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1165
+            "stars": 1165,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         }
@@ -374,12 +523,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "yarGen is a generator for YARA rules",
+            "homepage": null,
             "id": 15494190,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-10T15:02:41Z",
+            "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1811
+            "stars": 1811,
+            "topics": [
+              "malware",
+              "malware-analysis",
+              "malware-research",
+              "malwareanalysis",
+              "python",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         },
@@ -390,12 +551,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Yara rule generator for finding related samples and hunting",
+            "homepage": null,
             "id": 102598791,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-09-11T13:17:43Z",
+            "open_issues": 4,
             "owner": "AlienVault-OTX",
             "repo": "yabin",
-            "stars": 165
+            "stars": 165,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
         }
@@ -404,15 +570,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:12:03.560Z",
+    "last_updated": "2026-08-29T04:15:53.178Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome reversing resources",
+      "homepage": null,
       "id": 53292594,
       "language": null,
+      "license": null,
       "last_commit": "2023-08-19T07:30:45Z",
+      "open_issues": 18,
       "owner": "tylerha97",
       "repo": "awesome-reversing",
-      "stars": 4513
+      "stars": 4513,
+      "topics": []
     },
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
     "enhanced_repository": "enhansome/enhansome-reversing",

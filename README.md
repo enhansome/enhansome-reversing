@@ -148,7 +148,7 @@ A curated list of awesome reversing resources
 
 *Binary Analysis Resources*
 
-* [angr](https://github.com/angr/angr) ⭐ 9,042 | 🐛 709 | 🌐 Python | 📅 2026-08-29
+* [angr](https://github.com/angr/angr) ⭐ 9,042 | 🐛 713 | 🌐 Python | 📅 2026-08-29
 * [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,254 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [z3](https://z3.codeplex.com/)
