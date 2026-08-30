@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4064,
+            "stars": 4065,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -67,7 +67,7 @@
             "open_issues": 17,
             "owner": "gdbinit",
             "repo": "MachOView",
-            "stars": 2868,
+            "stars": 2869,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-08-29T23:15:51Z",
-            "open_issues": 706,
+            "last_commit": "2026-08-30T20:04:01Z",
+            "open_issues": 701,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9044,
+            "stars": 9047,
             "topics": [
               "analysis",
               "angr",
@@ -194,7 +194,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29691,
+            "stars": 29693,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -221,7 +221,7 @@
             "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1419,
+            "stars": 1420,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -323,7 +323,7 @@
             "open_issues": 214,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9275,
+            "stars": 9279,
             "topics": [
               "arm",
               "arm64",
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:24:55.607Z",
+    "last_updated": "2026-08-30T23:35:04.061Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
@@ -582,7 +582,7 @@
       "open_issues": 18,
       "owner": "tylerha97",
       "repo": "awesome-reversing",
-      "stars": 4512,
+      "stars": 4515,
       "topics": []
     },
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
