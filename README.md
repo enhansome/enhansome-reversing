@@ -148,7 +148,7 @@ A curated list of awesome reversing resources
 
 *Binary Analysis Resources*
 
-* [angr](https://github.com/angr/angr) ⭐ 9,047 | 🐛 701 | 🌐 Python | 📅 2026-08-30
+* [angr](https://github.com/angr/angr) ⭐ 9,051 | 🐛 703 | 🌐 Python | 📅 2026-08-31
 * [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,254 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [z3](https://z3.codeplex.com/)
@@ -198,7 +198,7 @@ A curated list of awesome reversing resources
 
 *Debugging Tools*
 
-* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,279 | 🐛 214 | 🌐 C | 📅 2026-08-28
+* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,283 | 🐛 214 | 🌐 C | 📅 2026-08-28
 * [vdb](https://github.com/vivisect/vivisect) ⭐ 1,000 | 🐛 119 | 🌐 Python | 📅 2026-08-20
 * [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
 * [OllyDbg v1.10](http://www.ollydbg.de/)
@@ -234,7 +234,7 @@ A curated list of awesome reversing resources
 *Scripting*
 
 * [onehawt IDA Plugin List](https://github.com/onethawt/idaplugins-list) ⭐ 3,833 | 🐛 8 | 📅 2024-05-31
-* [pefile Python Libray](https://github.com/erocarrera/pefile) ⭐ 2,065 | 🐛 61 | 🌐 Python | 📅 2026-08-28
+* [pefile Python Libray](https://github.com/erocarrera/pefile) ⭐ 2,066 | 🐛 61 | 🌐 Python | 📅 2026-08-28
 * [IDA Python Src](https://github.com/idapython/src) ⚠️ Archived
 * [ghidra ninja](https://github.com/ghidraninja/ghidra_scripts) ⭐ 1,166 | 🐛 13 | 🌐 YARA | 📅 2020-10-07
 * [IDC Functions Doc](https://www.hex-rays.com/products/ida/support/idadoc/162.shtml)
@@ -249,7 +249,7 @@ A curated list of awesome reversing resources
 
 * [Android Developer Studio](http://developer.android.com/sdk/index.html)
 * [APKtool](http://ibotpeaches.github.io/Apktool/)
-* [dex2jar](https://github.com/pxb1988/dex2jar) ⭐ 13,138 | 🐛 379 | 🌐 Java | 📅 2024-07-21
+* [dex2jar](https://github.com/pxb1988/dex2jar) ⭐ 13,137 | 🐛 379 | 🌐 Java | 📅 2024-07-21
 * [Bytecode Viewer](https://bytecodeviewer.com/)
 * [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
 
@@ -265,4 +265,4 @@ A curated list of awesome reversing resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
