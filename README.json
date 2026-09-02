@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-01T18:07:34Z",
-            "open_issues": 706,
+            "last_commit": "2026-09-02T23:13:11Z",
+            "open_issues": 699,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9054,
+            "stars": 9057,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29692,
+            "stars": 29693,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -247,7 +247,7 @@
             "open_issues": 222,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8063,
+            "stars": 8062,
             "topics": [
               "malware",
               "memory",
@@ -322,7 +322,7 @@
             "open_issues": 215,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9287,
+            "stars": 9290,
             "topics": [
               "arm",
               "arm64",
@@ -462,7 +462,7 @@
             "open_issues": 61,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2066,
+            "stars": 2065,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -531,7 +531,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1812,
+            "stars": 1811,
             "topics": [
               "malware",
               "malware-analysis",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T23:22:22.725Z",
+    "last_updated": "2026-09-02T23:22:02.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
@@ -581,7 +581,7 @@
       "open_issues": 18,
       "owner": "tylerha97",
       "repo": "awesome-reversing",
-      "stars": 4517,
+      "stars": 4518,
       "topics": []
     },
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
