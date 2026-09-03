@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-02T23:13:11Z",
-            "open_issues": 699,
+            "last_commit": "2026-09-03T22:49:24Z",
+            "open_issues": 705,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9057,
+            "stars": 9062,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29693,
+            "stars": 29694,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -220,7 +220,7 @@
             "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1421,
+            "stars": 1422,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -247,7 +247,7 @@
             "open_issues": 222,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8062,
+            "stars": 8063,
             "topics": [
               "malware",
               "memory",
@@ -274,7 +274,7 @@
             "open_issues": 35,
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2028,
+            "stars": 2029,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -295,7 +295,7 @@
             "open_issues": 9,
             "owner": "Rurik",
             "repo": "Noriben",
-            "stars": 1300,
+            "stars": 1301,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -322,7 +322,7 @@
             "open_issues": 215,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9290,
+            "stars": 9296,
             "topics": [
               "arm",
               "arm64",
@@ -358,8 +358,8 @@
             "id": 26651759,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T13:44:40Z",
-            "open_issues": 120,
+            "last_commit": "2026-09-03T19:37:29Z",
+            "open_issues": 117,
             "owner": "vivisect",
             "repo": "vivisect",
             "stars": 1000,
@@ -504,7 +504,7 @@
             "open_issues": 13,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1168,
+            "stars": 1167,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -531,7 +531,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1811,
+            "stars": 1812,
             "topics": [
               "malware",
               "malware-analysis",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T23:22:02.087Z",
+    "last_updated": "2026-09-03T23:19:43.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
