@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-03T22:49:24Z",
-            "open_issues": 705,
+            "last_commit": "2026-09-04T20:19:36Z",
+            "open_issues": 702,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9062,
+            "stars": 9066,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29694,
+            "stars": 29695,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -220,7 +220,7 @@
             "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1422,
+            "stars": 1423,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -274,7 +274,7 @@
             "open_issues": 35,
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2029,
+            "stars": 2031,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -322,7 +322,7 @@
             "open_issues": 215,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9296,
+            "stars": 9299,
             "topics": [
               "arm",
               "arm64",
@@ -358,7 +358,7 @@
             "id": 26651759,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T19:37:29Z",
+            "last_commit": "2026-09-04T16:07:29Z",
             "open_issues": 117,
             "owner": "vivisect",
             "repo": "vivisect",
@@ -441,7 +441,7 @@
             "open_issues": 8,
             "owner": "onethawt",
             "repo": "idaplugins-list",
-            "stars": 3833,
+            "stars": 3834,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -531,7 +531,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1812,
+            "stars": 1813,
             "topics": [
               "malware",
               "malware-analysis",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T23:19:43.942Z",
+    "last_updated": "2026-09-04T23:04:42.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
