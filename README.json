@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-04T20:19:36Z",
-            "open_issues": 702,
+            "last_commit": "2026-09-05T22:51:29Z",
+            "open_issues": 704,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9066,
+            "stars": 9067,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29695,
+            "stars": 29694,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -220,7 +220,7 @@
             "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1423,
+            "stars": 1424,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -322,7 +322,7 @@
             "open_issues": 215,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9299,
+            "stars": 9303,
             "topics": [
               "arm",
               "arm64",
@@ -359,7 +359,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T16:07:29Z",
-            "open_issues": 117,
+            "open_issues": 116,
             "owner": "vivisect",
             "repo": "vivisect",
             "stars": 1000,
@@ -531,7 +531,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1813,
+            "stars": 1814,
             "topics": [
               "malware",
               "malware-analysis",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:04:42.881Z",
+    "last_updated": "2026-09-05T22:58:56.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
