@@ -56,7 +56,7 @@ A curated list of awesome reversing resources
 
 *Reverse Engineering Courses*
 
-* [RPISEC Malware Course](https://github.com/RPISEC/Malware) ⭐ 4,066 | 🐛 1 | 📅 2022-08-26
+* [RPISEC Malware Course](https://github.com/RPISEC/Malware) ⭐ 4,067 | 🐛 1 | 📅 2022-08-26
 * [Offensive and Defensive Android Reversing](https://github.com/rednaga/training/raw/master/DEFCON23/O%26D%20-%20Android%20Reverse%20Engineering.pdf) ⭐ 429 | 🐛 0 | 📅 2018-01-02
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 * [Open Security Training](http://opensecuritytraining.info/Training.html)
@@ -117,7 +117,7 @@ A curated list of awesome reversing resources
 
 *Binary Format Tools*
 
-* [MachoView](https://github.com/gdbinit/MachOView) ⭐ 2,869 | 🐛 17 | 🌐 C | 📅 2024-07-22
+* [MachoView](https://github.com/gdbinit/MachOView) ⭐ 2,870 | 🐛 17 | 🌐 C | 📅 2024-07-22
 * [CFF Explorer](http://www.ntcore.com/exsuite.php)
 * [Cerbero Profiler](http://cerbero.io/profiler/) // [Lite PE Insider](http://cerbero.io/peinsider/)
 * [Detect It Easy](http://ntinfo.biz/)
@@ -148,7 +148,7 @@ A curated list of awesome reversing resources
 
 *Binary Analysis Resources*
 
-* [angr](https://github.com/angr/angr) ⭐ 9,067 | 🐛 704 | 🌐 Python | 📅 2026-09-05
+* [angr](https://github.com/angr/angr) ⭐ 9,068 | 🐛 714 | 🌐 Python | 📅 2026-09-06
 * [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,254 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [z3](https://z3.codeplex.com/)
@@ -166,7 +166,7 @@ A curated list of awesome reversing resources
 
 *Import Reconstruction Tools*
 
-* [Scylla](https://github.com/NtQuery/Scylla) ⭐ 1,424 | 🐛 23 | 🌐 C++ | 📅 2023-04-05
+* [Scylla](https://github.com/NtQuery/Scylla) ⭐ 1,425 | 🐛 23 | 🌐 C++ | 📅 2023-04-05
 * [ImpRec](http://www.woodmann.com/collaborative/tools/index.php/ImpREC)
 * [LordPE](http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip)
 
@@ -198,7 +198,7 @@ A curated list of awesome reversing resources
 
 *Debugging Tools*
 
-* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,303 | 🐛 215 | 🌐 C | 📅 2026-08-28
+* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,306 | 🐛 215 | 🌐 C | 📅 2026-08-28
 * [vdb](https://github.com/vivisect/vivisect) ⭐ 1,000 | 🐛 116 | 🌐 Python | 📅 2026-09-04
 * [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
 * [OllyDbg v1.10](http://www.ollydbg.de/)
@@ -265,4 +265,4 @@ A curated list of awesome reversing resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

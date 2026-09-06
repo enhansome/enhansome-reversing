@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4066,
+            "stars": 4067,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -67,7 +67,7 @@
             "open_issues": 17,
             "owner": "gdbinit",
             "repo": "MachOView",
-            "stars": 2869,
+            "stars": 2870,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-05T22:51:29Z",
-            "open_issues": 704,
+            "last_commit": "2026-09-06T21:13:08Z",
+            "open_issues": 714,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9067,
+            "stars": 9068,
             "topics": [
               "analysis",
               "angr",
@@ -220,7 +220,7 @@
             "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1424,
+            "stars": 1425,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -322,7 +322,7 @@
             "open_issues": 215,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9303,
+            "stars": 9306,
             "topics": [
               "arm",
               "arm64",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T22:58:56.736Z",
+    "last_updated": "2026-09-06T22:55:21.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
