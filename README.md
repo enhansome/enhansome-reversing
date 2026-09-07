@@ -43,7 +43,7 @@ A curated list of awesome reversing resources
 * [The Rootkit Arsenal](http://amzn.com/144962636X)
 * [Windows Internals Part 1](http://amzn.com/0735648735) [Part 2](http://amzn.com/0735665877)
 * [Inside Windows Debugging](http://amzn.com/0735662789)
-* [iOS Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) ⭐ 4,417 | 🐛 7 | 📅 2015-10-30
+* [iOS Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) ⭐ 4,415 | 🐛 7 | 📅 2015-10-30
 * [The Shellcoders Handbook](http://a.co/6H55943)
 * [A Guide to Kernel Exploitation](http://a.co/aM4cENn)
 * [Agner's software optimization resources](http://www.agner.org/optimize/)
@@ -117,7 +117,7 @@ A curated list of awesome reversing resources
 
 *Binary Format Tools*
 
-* [MachoView](https://github.com/gdbinit/MachOView) ⭐ 2,870 | 🐛 17 | 🌐 C | 📅 2024-07-22
+* [MachoView](https://github.com/gdbinit/MachOView) ⭐ 2,871 | 🐛 17 | 🌐 C | 📅 2024-07-22
 * [CFF Explorer](http://www.ntcore.com/exsuite.php)
 * [Cerbero Profiler](http://cerbero.io/profiler/) // [Lite PE Insider](http://cerbero.io/peinsider/)
 * [Detect It Easy](http://ntinfo.biz/)
@@ -148,7 +148,7 @@ A curated list of awesome reversing resources
 
 *Binary Analysis Resources*
 
-* [angr](https://github.com/angr/angr) ⭐ 9,068 | 🐛 714 | 🌐 Python | 📅 2026-09-06
+* [angr](https://github.com/angr/angr) ⭐ 9,071 | 🐛 720 | 🌐 Python | 📅 2026-09-07
 * [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,254 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [z3](https://z3.codeplex.com/)
@@ -198,8 +198,8 @@ A curated list of awesome reversing resources
 
 *Debugging Tools*
 
-* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,306 | 🐛 215 | 🌐 C | 📅 2026-08-28
-* [vdb](https://github.com/vivisect/vivisect) ⭐ 1,000 | 🐛 116 | 🌐 Python | 📅 2026-09-04
+* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,307 | 🐛 215 | 🌐 C | 📅 2026-08-28
+* [vdb](https://github.com/vivisect/vivisect) ⭐ 1,000 | 🐛 118 | 🌐 Python | 📅 2026-09-07
 * [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
 * [OllyDbg v1.10](http://www.ollydbg.de/)
 * [OllyDbg v2.01](http://www.ollydbg.de/version2.html)
@@ -233,7 +233,7 @@ A curated list of awesome reversing resources
 
 *Scripting*
 
-* [onehawt IDA Plugin List](https://github.com/onethawt/idaplugins-list) ⭐ 3,834 | 🐛 8 | 📅 2024-05-31
+* [onehawt IDA Plugin List](https://github.com/onethawt/idaplugins-list) ⭐ 3,835 | 🐛 8 | 📅 2024-05-31
 * [pefile Python Libray](https://github.com/erocarrera/pefile) ⭐ 2,065 | 🐛 61 | 🌐 Python | 📅 2026-08-28
 * [IDA Python Src](https://github.com/idapython/src) ⚠️ Archived
 * [ghidra ninja](https://github.com/ghidraninja/ghidra_scripts) ⭐ 1,167 | 🐛 13 | 🌐 YARA | 📅 2020-10-07
@@ -265,4 +265,4 @@ A curated list of awesome reversing resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
