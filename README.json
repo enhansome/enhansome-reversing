@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4069,
+            "stars": 4070,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-10T18:58:51Z",
-            "open_issues": 738,
+            "last_commit": "2026-09-11T22:27:06Z",
+            "open_issues": 740,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9080,
+            "stars": 9085,
             "topics": [
               "analysis",
               "angr",
@@ -220,7 +220,7 @@
             "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1426,
+            "stars": 1427,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -247,7 +247,7 @@
             "open_issues": 221,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8060,
+            "stars": 8059,
             "topics": [
               "malware",
               "memory",
@@ -322,7 +322,7 @@
             "open_issues": 215,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9318,
+            "stars": 9322,
             "topics": [
               "arm",
               "arm64",
@@ -458,7 +458,7 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-09T16:18:56Z",
+            "last_commit": "2026-09-11T20:19:44Z",
             "open_issues": 62,
             "owner": "erocarrera",
             "repo": "pefile",
@@ -528,7 +528,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-01-10T15:02:41Z",
-            "open_issues": 15,
+            "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
             "stars": 1814,
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T23:13:51.903Z",
+    "last_updated": "2026-09-11T23:20:37.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
