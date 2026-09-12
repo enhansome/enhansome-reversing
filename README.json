@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-11T22:27:06Z",
-            "open_issues": 740,
+            "last_commit": "2026-09-12T22:44:36Z",
+            "open_issues": 739,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9085,
+            "stars": 9086,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29692,
+            "stars": 29688,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -220,7 +220,7 @@
             "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1427,
+            "stars": 1428,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -274,7 +274,7 @@
             "open_issues": 35,
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2032,
+            "stars": 2033,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -322,7 +322,7 @@
             "open_issues": 215,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9322,
+            "stars": 9325,
             "topics": [
               "arm",
               "arm64",
@@ -458,8 +458,8 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T20:19:44Z",
-            "open_issues": 62,
+            "last_commit": "2026-09-12T09:57:10Z",
+            "open_issues": 63,
             "owner": "erocarrera",
             "repo": "pefile",
             "stars": 2065,
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T23:20:37.414Z",
+    "last_updated": "2026-09-12T23:04:54.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
