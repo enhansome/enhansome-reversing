@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4070,
+            "stars": 4071,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-12T22:44:36Z",
-            "open_issues": 739,
+            "last_commit": "2026-09-13T09:57:48Z",
+            "open_issues": 737,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9086,
+            "stars": 9088,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29688,
+            "stars": 29687,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -220,7 +220,7 @@
             "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1428,
+            "stars": 1429,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -247,7 +247,7 @@
             "open_issues": 221,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8059,
+            "stars": 8060,
             "topics": [
               "malware",
               "memory",
@@ -322,7 +322,7 @@
             "open_issues": 215,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9325,
+            "stars": 9331,
             "topics": [
               "arm",
               "arm64",
@@ -462,7 +462,7 @@
             "open_issues": 63,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2065,
+            "stars": 2066,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T23:04:54.947Z",
+    "last_updated": "2026-09-13T23:12:59.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
