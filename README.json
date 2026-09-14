@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-13T09:57:48Z",
-            "open_issues": 737,
+            "last_commit": "2026-09-14T23:22:55Z",
+            "open_issues": 734,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9088,
+            "stars": 9089,
             "topics": [
               "analysis",
               "angr",
@@ -146,7 +146,7 @@
             "open_issues": 43,
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
-            "stars": 2255,
+            "stars": 2256,
             "topics": [
               "arm",
               "bap",
@@ -274,7 +274,7 @@
             "open_issues": 35,
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2033,
+            "stars": 2035,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -319,10 +319,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-08-28T09:09:56Z",
-            "open_issues": 215,
+            "open_issues": 216,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9331,
+            "stars": 9336,
             "topics": [
               "arm",
               "arm64",
@@ -358,7 +358,7 @@
             "id": 26651759,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T15:52:22Z",
+            "last_commit": "2026-09-14T18:58:17Z",
             "open_issues": 121,
             "owner": "vivisect",
             "repo": "vivisect",
@@ -441,7 +441,7 @@
             "open_issues": 8,
             "owner": "onethawt",
             "repo": "idaplugins-list",
-            "stars": 3837,
+            "stars": 3838,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -458,8 +458,8 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-12T09:57:10Z",
-            "open_issues": 63,
+            "last_commit": "2026-09-14T04:52:25Z",
+            "open_issues": 61,
             "owner": "erocarrera",
             "repo": "pefile",
             "stars": 2066,
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T23:12:59.137Z",
+    "last_updated": "2026-09-14T23:53:35.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
@@ -581,7 +581,7 @@
       "open_issues": 18,
       "owner": "tylerha97",
       "repo": "awesome-reversing",
-      "stars": 4517,
+      "stars": 4516,
       "topics": []
     },
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
