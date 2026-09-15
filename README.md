@@ -43,7 +43,7 @@ A curated list of awesome reversing resources
 * [The Rootkit Arsenal](http://amzn.com/144962636X)
 * [Windows Internals Part 1](http://amzn.com/0735648735) [Part 2](http://amzn.com/0735665877)
 * [Inside Windows Debugging](http://amzn.com/0735662789)
-* [iOS Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) ⭐ 4,417 | 🐛 7 | 📅 2015-10-30
+* [iOS Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) ⭐ 4,418 | 🐛 7 | 📅 2015-10-30
 * [The Shellcoders Handbook](http://a.co/6H55943)
 * [A Guide to Kernel Exploitation](http://a.co/aM4cENn)
 * [Agner's software optimization resources](http://www.agner.org/optimize/)
@@ -148,7 +148,7 @@ A curated list of awesome reversing resources
 
 *Binary Analysis Resources*
 
-* [angr](https://github.com/angr/angr) ⭐ 9,089 | 🐛 734 | 🌐 Python | 📅 2026-09-14
+* [angr](https://github.com/angr/angr) ⭐ 9,089 | 🐛 731 | 🌐 Python | 📅 2026-09-15
 * [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,256 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [z3](https://z3.codeplex.com/)
@@ -166,7 +166,7 @@ A curated list of awesome reversing resources
 
 *Import Reconstruction Tools*
 
-* [Scylla](https://github.com/NtQuery/Scylla) ⭐ 1,429 | 🐛 23 | 🌐 C++ | 📅 2023-04-05
+* [Scylla](https://github.com/NtQuery/Scylla) ⭐ 1,430 | 🐛 23 | 🌐 C++ | 📅 2023-04-05
 * [ImpRec](http://www.woodmann.com/collaborative/tools/index.php/ImpREC)
 * [LordPE](http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip)
 
@@ -198,7 +198,7 @@ A curated list of awesome reversing resources
 
 *Debugging Tools*
 
-* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,336 | 🐛 216 | 🌐 C | 📅 2026-08-28
+* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,340 | 🐛 216 | 🌐 C | 📅 2026-08-28
 * [vdb](https://github.com/vivisect/vivisect) ⭐ 1,000 | 🐛 121 | 🌐 Python | 📅 2026-09-14
 * [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
 * [OllyDbg v1.10](http://www.ollydbg.de/)
@@ -233,10 +233,10 @@ A curated list of awesome reversing resources
 
 *Scripting*
 
-* [onehawt IDA Plugin List](https://github.com/onethawt/idaplugins-list) ⭐ 3,838 | 🐛 8 | 📅 2024-05-31
+* [onehawt IDA Plugin List](https://github.com/onethawt/idaplugins-list) ⭐ 3,837 | 🐛 8 | 📅 2024-05-31
 * [pefile Python Libray](https://github.com/erocarrera/pefile) ⭐ 2,066 | 🐛 61 | 🌐 Python | 📅 2026-09-14
 * [IDA Python Src](https://github.com/idapython/src) ⚠️ Archived
-* [ghidra ninja](https://github.com/ghidraninja/ghidra_scripts) ⭐ 1,168 | 🐛 13 | 🌐 YARA | 📅 2020-10-07
+* [ghidra ninja](https://github.com/ghidraninja/ghidra_scripts) ⭐ 1,169 | 🐛 13 | 🌐 YARA | 📅 2020-10-07
 * [IDC Functions Doc](https://www.hex-rays.com/products/ida/support/idadoc/162.shtml)
 * [Using IDAPython to Make your Life Easier](http://researchcenter.paloaltonetworks.com/tag/idapython/)
 * [Introduction to IDA Python](https://tuts4you.com/download.php?view.3229)
@@ -249,7 +249,7 @@ A curated list of awesome reversing resources
 
 * [Android Developer Studio](http://developer.android.com/sdk/index.html)
 * [APKtool](http://ibotpeaches.github.io/Apktool/)
-* [dex2jar](https://github.com/pxb1988/dex2jar) ⭐ 13,141 | 🐛 379 | 🌐 Java | 📅 2024-07-21
+* [dex2jar](https://github.com/pxb1988/dex2jar) ⭐ 13,139 | 🐛 379 | 🌐 Java | 📅 2024-07-21
 * [Bytecode Viewer](https://bytecodeviewer.com/)
 * [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
 
@@ -265,4 +265,4 @@ A curated list of awesome reversing resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
