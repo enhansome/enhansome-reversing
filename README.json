@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4071,
+            "stars": 4069,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -67,7 +67,7 @@
             "open_issues": 16,
             "owner": "gdbinit",
             "repo": "MachOView",
-            "stars": 2871,
+            "stars": 2869,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-16T23:33:03Z",
-            "open_issues": 731,
+            "last_commit": "2026-09-17T23:31:23Z",
+            "open_issues": 730,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9092,
+            "stars": 9095,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29685,
+            "stars": 29684,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -274,7 +274,7 @@
             "open_issues": 35,
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2035,
+            "stars": 2036,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -295,7 +295,7 @@
             "open_issues": 9,
             "owner": "Rurik",
             "repo": "Noriben",
-            "stars": 1301,
+            "stars": 1302,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -322,7 +322,7 @@
             "open_issues": 217,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9343,
+            "stars": 9342,
             "topics": [
               "arm",
               "arm64",
@@ -441,7 +441,7 @@
             "open_issues": 8,
             "owner": "onethawt",
             "repo": "idaplugins-list",
-            "stars": 3837,
+            "stars": 3836,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -462,7 +462,7 @@
             "open_issues": 61,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2066,
+            "stars": 2067,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -483,7 +483,7 @@
             "open_issues": 6,
             "owner": "idapython",
             "repo": "src",
-            "stars": 1536,
+            "stars": 1537,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -531,7 +531,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1812,
+            "stars": 1813,
             "topics": [
               "malware",
               "malware-analysis",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:40:22.392Z",
+    "last_updated": "2026-09-17T23:34:19.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
@@ -581,7 +581,7 @@
       "open_issues": 18,
       "owner": "tylerha97",
       "repo": "awesome-reversing",
-      "stars": 4517,
+      "stars": 4519,
       "topics": []
     },
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",

@@ -43,7 +43,7 @@ A curated list of awesome reversing resources
 * [The Rootkit Arsenal](http://amzn.com/144962636X)
 * [Windows Internals Part 1](http://amzn.com/0735648735) [Part 2](http://amzn.com/0735665877)
 * [Inside Windows Debugging](http://amzn.com/0735662789)
-* [iOS Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) ⭐ 4,417 | 🐛 7 | 📅 2015-10-30
+* [iOS Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) ⭐ 4,416 | 🐛 7 | 📅 2015-10-30
 * [The Shellcoders Handbook](http://a.co/6H55943)
 * [A Guide to Kernel Exploitation](http://a.co/aM4cENn)
 * [Agner's software optimization resources](http://www.agner.org/optimize/)
@@ -56,7 +56,7 @@ A curated list of awesome reversing resources
 
 *Reverse Engineering Courses*
 
-* [RPISEC Malware Course](https://github.com/RPISEC/Malware) ⭐ 4,071 | 🐛 1 | 📅 2022-08-26
+* [RPISEC Malware Course](https://github.com/RPISEC/Malware) ⭐ 4,069 | 🐛 1 | 📅 2022-08-26
 * [Offensive and Defensive Android Reversing](https://github.com/rednaga/training/raw/master/DEFCON23/O%26D%20-%20Android%20Reverse%20Engineering.pdf) ⭐ 429 | 🐛 0 | 📅 2018-01-02
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 * [Open Security Training](http://opensecuritytraining.info/Training.html)
@@ -117,7 +117,7 @@ A curated list of awesome reversing resources
 
 *Binary Format Tools*
 
-* [MachoView](https://github.com/gdbinit/MachOView) ⭐ 2,871 | 🐛 16 | 🌐 C | 📅 2024-07-22
+* [MachoView](https://github.com/gdbinit/MachOView) ⭐ 2,869 | 🐛 16 | 🌐 C | 📅 2024-07-22
 * [CFF Explorer](http://www.ntcore.com/exsuite.php)
 * [Cerbero Profiler](http://cerbero.io/profiler/) // [Lite PE Insider](http://cerbero.io/peinsider/)
 * [Detect It Easy](http://ntinfo.biz/)
@@ -148,7 +148,7 @@ A curated list of awesome reversing resources
 
 *Binary Analysis Resources*
 
-* [angr](https://github.com/angr/angr) ⭐ 9,092 | 🐛 731 | 🌐 Python | 📅 2026-09-16
+* [angr](https://github.com/angr/angr) ⭐ 9,095 | 🐛 730 | 🌐 Python | 📅 2026-09-17
 * [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,256 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [z3](https://z3.codeplex.com/)
@@ -175,8 +175,8 @@ A curated list of awesome reversing resources
 *Dynamic Analysis Tools*
 
 * [Volatility](https://github.com/volatilityfoundation/volatility) ⚠️ Archived
-* [LiME](https://github.com/504ensicsLabs/LiME) ⭐ 2,035 | 🐛 35 | 🌐 C | 📅 2026-04-05
-* [Noriben](https://github.com/Rurik/Noriben) ⭐ 1,301 | 🐛 9 | 🌐 Python | 📅 2026-03-26
+* [LiME](https://github.com/504ensicsLabs/LiME) ⭐ 2,036 | 🐛 35 | 🌐 C | 📅 2026-04-05
+* [Noriben](https://github.com/Rurik/Noriben) ⭐ 1,302 | 🐛 9 | 🌐 Python | 📅 2026-03-26
 * [ProcessHacker](http://processhacker.sourceforge.net/)
 * [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer)
 * [Process Monitor](https://technet.microsoft.com/en-us/sysinternals/processmonitor)
@@ -198,7 +198,7 @@ A curated list of awesome reversing resources
 
 *Debugging Tools*
 
-* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,343 | 🐛 217 | 🌐 C | 📅 2026-08-28
+* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,342 | 🐛 217 | 🌐 C | 📅 2026-08-28
 * [vdb](https://github.com/vivisect/vivisect) ⭐ 1,000 | 🐛 121 | 🌐 Python | 📅 2026-09-16
 * [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
 * [OllyDbg v1.10](http://www.ollydbg.de/)
@@ -233,8 +233,8 @@ A curated list of awesome reversing resources
 
 *Scripting*
 
-* [onehawt IDA Plugin List](https://github.com/onethawt/idaplugins-list) ⭐ 3,837 | 🐛 8 | 📅 2024-05-31
-* [pefile Python Libray](https://github.com/erocarrera/pefile) ⭐ 2,066 | 🐛 61 | 🌐 Python | 📅 2026-09-14
+* [onehawt IDA Plugin List](https://github.com/onethawt/idaplugins-list) ⭐ 3,836 | 🐛 8 | 📅 2024-05-31
+* [pefile Python Libray](https://github.com/erocarrera/pefile) ⭐ 2,067 | 🐛 61 | 🌐 Python | 📅 2026-09-14
 * [IDA Python Src](https://github.com/idapython/src) ⚠️ Archived
 * [ghidra ninja](https://github.com/ghidraninja/ghidra_scripts) ⭐ 1,169 | 🐛 13 | 🌐 YARA | 📅 2020-10-07
 * [IDC Functions Doc](https://www.hex-rays.com/products/ida/support/idadoc/162.shtml)
@@ -257,7 +257,7 @@ A curated list of awesome reversing resources
 
 *Yara Resources*
 
-* [yarGen](https://github.com/Neo23x0/yarGen) ⭐ 1,812 | 🐛 14 | 🌐 Python | 📅 2026-01-10
+* [yarGen](https://github.com/Neo23x0/yarGen) ⭐ 1,813 | 🐛 14 | 🌐 Python | 📅 2026-01-10
 * [yabin](https://github.com/AlienVault-OTX/yabin) ⭐ 165 | 🐛 4 | 🌐 Python | 📅 2022-09-11
 * [Yara docs](http://yara.readthedocs.org/en/v3.4.0/writingrules.html)
 * [Cheatsheet](https://gist.github.com/tylerha97/eeabc765e9befad9b80a)
@@ -265,4 +265,4 @@ A curated list of awesome reversing resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
