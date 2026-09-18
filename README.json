@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-17T23:31:23Z",
-            "open_issues": 730,
+            "last_commit": "2026-09-18T20:51:39Z",
+            "open_issues": 722,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9095,
+            "stars": 9099,
             "topics": [
               "analysis",
               "angr",
@@ -220,7 +220,7 @@
             "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1431,
+            "stars": 1432,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -291,7 +291,7 @@
             "id": 9355482,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-03-26T15:18:05Z",
+            "last_commit": "2026-09-18T00:02:10Z",
             "open_issues": 9,
             "owner": "Rurik",
             "repo": "Noriben",
@@ -322,7 +322,7 @@
             "open_issues": 217,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9342,
+            "stars": 9344,
             "topics": [
               "arm",
               "arm64",
@@ -441,7 +441,7 @@
             "open_issues": 8,
             "owner": "onethawt",
             "repo": "idaplugins-list",
-            "stars": 3836,
+            "stars": 3837,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -458,11 +458,11 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T04:52:25Z",
+            "last_commit": "2026-09-18T14:40:10Z",
             "open_issues": 61,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2067,
+            "stars": 2068,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -483,7 +483,7 @@
             "open_issues": 6,
             "owner": "idapython",
             "repo": "src",
-            "stars": 1537,
+            "stars": 1538,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -531,7 +531,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1813,
+            "stars": 1814,
             "topics": [
               "malware",
               "malware-analysis",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T23:34:19.560Z",
+    "last_updated": "2026-09-18T23:22:00.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
