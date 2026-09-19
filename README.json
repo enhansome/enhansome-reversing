@@ -64,7 +64,7 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2024-07-22T07:29:07Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "gdbinit",
             "repo": "MachOView",
             "stars": 2869,
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-18T20:51:39Z",
-            "open_issues": 722,
+            "last_commit": "2026-09-19T06:51:03Z",
+            "open_issues": 721,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9099,
+            "stars": 9100,
             "topics": [
               "analysis",
               "angr",
@@ -220,7 +220,7 @@
             "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1432,
+            "stars": 1434,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -274,7 +274,7 @@
             "open_issues": 35,
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2036,
+            "stars": 2038,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -322,7 +322,7 @@
             "open_issues": 217,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9344,
+            "stars": 9351,
             "topics": [
               "arm",
               "arm64",
@@ -441,7 +441,7 @@
             "open_issues": 8,
             "owner": "onethawt",
             "repo": "idaplugins-list",
-            "stars": 3837,
+            "stars": 3836,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -483,7 +483,7 @@
             "open_issues": 6,
             "owner": "idapython",
             "repo": "src",
-            "stars": 1538,
+            "stars": 1537,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -504,7 +504,7 @@
             "open_issues": 13,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1169,
+            "stars": 1170,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T23:22:00.537Z",
+    "last_updated": "2026-09-19T23:13:14.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
