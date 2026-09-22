@@ -148,8 +148,8 @@ A curated list of awesome reversing resources
 
 *Binary Analysis Resources*
 
-* [angr](https://github.com/angr/angr) ⭐ 9,102 | 🐛 723 | 🌐 Python | 📅 2026-09-21
-* [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,257 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07
+* [angr](https://github.com/angr/angr) ⭐ 9,105 | 🐛 723 | 🌐 Python | 📅 2026-09-22
+* [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,258 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [z3](https://z3.codeplex.com/)
 
@@ -166,7 +166,7 @@ A curated list of awesome reversing resources
 
 *Import Reconstruction Tools*
 
-* [Scylla](https://github.com/NtQuery/Scylla) ⭐ 1,435 | 🐛 23 | 🌐 C++ | 📅 2023-04-05
+* [Scylla](https://github.com/NtQuery/Scylla) ⭐ 1,436 | 🐛 23 | 🌐 C++ | 📅 2023-04-05
 * [ImpRec](http://www.woodmann.com/collaborative/tools/index.php/ImpREC)
 * [LordPE](http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip)
 
@@ -198,7 +198,7 @@ A curated list of awesome reversing resources
 
 *Debugging Tools*
 
-* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,360 | 🐛 218 | 🌐 C | 📅 2026-08-28
+* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,361 | 🐛 218 | 🌐 C | 📅 2026-08-28
 * [vdb](https://github.com/vivisect/vivisect) ⭐ 1,000 | 🐛 121 | 🌐 Python | 📅 2026-09-21
 * [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
 * [OllyDbg v1.10](http://www.ollydbg.de/)
@@ -258,7 +258,7 @@ A curated list of awesome reversing resources
 *Yara Resources*
 
 * [yarGen](https://github.com/Neo23x0/yarGen) ⭐ 1,813 | 🐛 14 | 🌐 Python | 📅 2026-01-10
-* [yabin](https://github.com/AlienVault-OTX/yabin) ⭐ 165 | 🐛 4 | 🌐 Python | 📅 2022-09-11
+* [yabin](https://github.com/AlienVault-OTX/yabin) ⭐ 166 | 🐛 4 | 🌐 Python | 📅 2022-09-11
 * [Yara docs](http://yara.readthedocs.org/en/v3.4.0/writingrules.html)
 * [Cheatsheet](https://gist.github.com/tylerha97/eeabc765e9befad9b80a)
 * [Yara First Presentation](/Users/thalfpop/Downloads/first_2014_-_schuster-_andreas_-_yara_basic_and_advanced_20140619.pdf)

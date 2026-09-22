@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-21T20:49:16Z",
+            "last_commit": "2026-09-22T20:55:57Z",
             "open_issues": 723,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9102,
+            "stars": 9105,
             "topics": [
               "analysis",
               "angr",
@@ -146,7 +146,7 @@
             "open_issues": 43,
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
-            "stars": 2257,
+            "stars": 2258,
             "topics": [
               "arm",
               "bap",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29681,
+            "stars": 29678,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -220,7 +220,7 @@
             "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1435,
+            "stars": 1436,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -247,7 +247,7 @@
             "open_issues": 221,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8062,
+            "stars": 8063,
             "topics": [
               "malware",
               "memory",
@@ -322,7 +322,7 @@
             "open_issues": 218,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9360,
+            "stars": 9361,
             "topics": [
               "arm",
               "arm64",
@@ -559,7 +559,7 @@
             "open_issues": 4,
             "owner": "AlienVault-OTX",
             "repo": "yabin",
-            "stars": 165,
+            "stars": 166,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:10:35.483Z",
+    "last_updated": "2026-09-22T23:37:26.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
@@ -581,7 +581,7 @@
       "open_issues": 18,
       "owner": "tylerha97",
       "repo": "awesome-reversing",
-      "stars": 4520,
+      "stars": 4522,
       "topics": []
     },
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
