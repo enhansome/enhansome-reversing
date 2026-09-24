@@ -56,7 +56,7 @@ A curated list of awesome reversing resources
 
 *Reverse Engineering Courses*
 
-* [RPISEC Malware Course](https://github.com/RPISEC/Malware) ⭐ 4,070 | 🐛 1 | 📅 2022-08-26
+* [RPISEC Malware Course](https://github.com/RPISEC/Malware) ⭐ 4,069 | 🐛 1 | 📅 2022-08-26
 * [Offensive and Defensive Android Reversing](https://github.com/rednaga/training/raw/master/DEFCON23/O%26D%20-%20Android%20Reverse%20Engineering.pdf) ⭐ 429 | 🐛 0 | 📅 2018-01-02
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 * [Open Security Training](http://opensecuritytraining.info/Training.html)
@@ -148,7 +148,7 @@ A curated list of awesome reversing resources
 
 *Binary Analysis Resources*
 
-* [angr](https://github.com/angr/angr) ⭐ 9,107 | 🐛 723 | 🌐 Python | 📅 2026-09-23
+* [angr](https://github.com/angr/angr) ⭐ 9,107 | 🐛 725 | 🌐 Python | 📅 2026-09-24
 * [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,259 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [z3](https://z3.codeplex.com/)
@@ -166,7 +166,7 @@ A curated list of awesome reversing resources
 
 *Import Reconstruction Tools*
 
-* [Scylla](https://github.com/NtQuery/Scylla) ⭐ 1,437 | 🐛 23 | 🌐 C++ | 📅 2023-04-05
+* [Scylla](https://github.com/NtQuery/Scylla) ⭐ 1,436 | 🐛 23 | 🌐 C++ | 📅 2023-04-05
 * [ImpRec](http://www.woodmann.com/collaborative/tools/index.php/ImpREC)
 * [LordPE](http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip)
 
@@ -176,7 +176,7 @@ A curated list of awesome reversing resources
 
 * [Volatility](https://github.com/volatilityfoundation/volatility) ⚠️ Archived
 * [LiME](https://github.com/504ensicsLabs/LiME) ⭐ 2,038 | 🐛 35 | 🌐 C | 📅 2026-04-05
-* [Noriben](https://github.com/Rurik/Noriben) ⭐ 1,301 | 🐛 9 | 🌐 Python | 📅 2026-09-18
+* [Noriben](https://github.com/Rurik/Noriben) ⭐ 1,303 | 🐛 9 | 🌐 Python | 📅 2026-09-18
 * [ProcessHacker](http://processhacker.sourceforge.net/)
 * [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer)
 * [Process Monitor](https://technet.microsoft.com/en-us/sysinternals/processmonitor)
@@ -198,8 +198,8 @@ A curated list of awesome reversing resources
 
 *Debugging Tools*
 
-* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,362 | 🐛 218 | 🌐 C | 📅 2026-08-28
-* [vdb](https://github.com/vivisect/vivisect) ⭐ 1,000 | 🐛 121 | 🌐 Python | 📅 2026-09-21
+* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,365 | 🐛 218 | 🌐 C | 📅 2026-08-28
+* [vdb](https://github.com/vivisect/vivisect) ⭐ 1,001 | 🐛 121 | 🌐 Python | 📅 2026-09-24
 * [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
 * [OllyDbg v1.10](http://www.ollydbg.de/)
 * [OllyDbg v2.01](http://www.ollydbg.de/version2.html)
@@ -265,4 +265,4 @@ A curated list of awesome reversing resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
