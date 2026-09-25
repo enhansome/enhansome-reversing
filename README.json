@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4069,
+            "stars": 4070,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-24T22:30:26Z",
-            "open_issues": 725,
+            "last_commit": "2026-09-25T22:14:10Z",
+            "open_issues": 729,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9107,
+            "stars": 9112,
             "topics": [
               "analysis",
               "angr",
@@ -247,7 +247,7 @@
             "open_issues": 221,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8060,
+            "stars": 8061,
             "topics": [
               "malware",
               "memory",
@@ -274,7 +274,7 @@
             "open_issues": 35,
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2038,
+            "stars": 2037,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -295,7 +295,7 @@
             "open_issues": 9,
             "owner": "Rurik",
             "repo": "Noriben",
-            "stars": 1303,
+            "stars": 1304,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -319,10 +319,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-08-28T09:09:56Z",
-            "open_issues": 218,
+            "open_issues": 220,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9365,
+            "stars": 9369,
             "topics": [
               "arm",
               "arm64",
@@ -462,7 +462,7 @@
             "open_issues": 62,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2069,
+            "stars": 2068,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -504,7 +504,7 @@
             "open_issues": 13,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1172,
+            "stars": 1173,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -531,7 +531,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1813,
+            "stars": 1814,
             "topics": [
               "malware",
               "malware-analysis",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T23:54:27.794Z",
+    "last_updated": "2026-09-25T23:57:54.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
@@ -581,7 +581,7 @@
       "open_issues": 18,
       "owner": "tylerha97",
       "repo": "awesome-reversing",
-      "stars": 4521,
+      "stars": 4522,
       "topics": []
     },
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
