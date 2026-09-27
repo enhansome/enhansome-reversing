@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-26T14:41:20Z",
-            "open_issues": 725,
+            "last_commit": "2026-09-27T23:33:27Z",
+            "open_issues": 731,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9115,
+            "stars": 9114,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29674,
+            "stars": 29673,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -274,7 +274,7 @@
             "open_issues": 35,
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2039,
+            "stars": 2040,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -322,7 +322,7 @@
             "open_issues": 222,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9370,
+            "stars": 9376,
             "topics": [
               "arm",
               "arm64",
@@ -441,7 +441,7 @@
             "open_issues": 8,
             "owner": "onethawt",
             "repo": "idaplugins-list",
-            "stars": 3837,
+            "stars": 3836,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T23:40:06.709Z",
+    "last_updated": "2026-09-27T23:50:27.637Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
@@ -578,7 +578,7 @@
       "language": null,
       "license": null,
       "last_commit": "2023-08-19T07:30:45Z",
-      "open_issues": 18,
+      "open_issues": 19,
       "owner": "tylerha97",
       "repo": "awesome-reversing",
       "stars": 4522,
