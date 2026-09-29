@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4071,
+            "stars": 4072,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,8 +117,8 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-27T23:33:27Z",
-            "open_issues": 731,
+            "last_commit": "2026-09-29T00:56:12Z",
+            "open_issues": 741,
             "owner": "angr",
             "repo": "angr",
             "stars": 9114,
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29673,
+            "stars": 29671,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -247,7 +247,7 @@
             "open_issues": 221,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8061,
+            "stars": 8060,
             "topics": [
               "malware",
               "memory",
@@ -319,10 +319,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-08-28T09:09:56Z",
-            "open_issues": 222,
+            "open_issues": 223,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9376,
+            "stars": 9378,
             "topics": [
               "arm",
               "arm64",
@@ -462,7 +462,7 @@
             "open_issues": 62,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2069,
+            "stars": 2070,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T23:50:27.637Z",
+    "last_updated": "2026-09-29T01:02:52.762Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
