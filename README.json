@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4072,
+            "stars": 4073,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-29T00:56:12Z",
-            "open_issues": 741,
+            "last_commit": "2026-09-29T18:22:07Z",
+            "open_issues": 734,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9114,
+            "stars": 9118,
             "topics": [
               "analysis",
               "angr",
@@ -146,7 +146,7 @@
             "open_issues": 43,
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
-            "stars": 2259,
+            "stars": 2260,
             "topics": [
               "arm",
               "bap",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29671,
+            "stars": 29673,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -247,7 +247,7 @@
             "open_issues": 221,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8060,
+            "stars": 8061,
             "topics": [
               "malware",
               "memory",
@@ -322,7 +322,7 @@
             "open_issues": 223,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9378,
+            "stars": 9380,
             "topics": [
               "arm",
               "arm64",
@@ -358,7 +358,7 @@
             "id": 26651759,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T17:55:44Z",
+            "last_commit": "2026-09-29T13:57:56Z",
             "open_issues": 121,
             "owner": "vivisect",
             "repo": "vivisect",
@@ -462,7 +462,7 @@
             "open_issues": 62,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2070,
+            "stars": 2071,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -531,7 +531,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1814,
+            "stars": 1813,
             "topics": [
               "malware",
               "malware-analysis",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T01:02:52.762Z",
+    "last_updated": "2026-09-30T00:33:13.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
