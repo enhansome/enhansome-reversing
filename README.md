@@ -43,7 +43,7 @@ A curated list of awesome reversing resources
 * [The Rootkit Arsenal](http://amzn.com/144962636X)
 * [Windows Internals Part 1](http://amzn.com/0735648735) [Part 2](http://amzn.com/0735665877)
 * [Inside Windows Debugging](http://amzn.com/0735662789)
-* [iOS Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) ⭐ 4,423 | 🐛 7 | 📅 2015-10-30
+* [iOS Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) ⭐ 4,424 | 🐛 7 | 📅 2015-10-30
 * [The Shellcoders Handbook](http://a.co/6H55943)
 * [A Guide to Kernel Exploitation](http://a.co/aM4cENn)
 * [Agner's software optimization resources](http://www.agner.org/optimize/)
@@ -148,7 +148,7 @@ A curated list of awesome reversing resources
 
 *Binary Analysis Resources*
 
-* [angr](https://github.com/angr/angr) ⭐ 9,123 | 🐛 743 | 🌐 Python | 📅 2026-10-02
+* [angr](https://github.com/angr/angr) ⭐ 9,123 | 🐛 746 | 🌐 Python | 📅 2026-10-03
 * [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,261 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [z3](https://z3.codeplex.com/)
@@ -198,7 +198,7 @@ A curated list of awesome reversing resources
 
 *Debugging Tools*
 
-* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,394 | 🐛 228 | 🌐 C | 📅 2026-08-28
+* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,396 | 🐛 228 | 🌐 C | 📅 2026-08-28
 * [vdb](https://github.com/vivisect/vivisect) ⭐ 1,001 | 🐛 121 | 🌐 Python | 📅 2026-09-29
 * [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
 * [OllyDbg v1.10](http://www.ollydbg.de/)

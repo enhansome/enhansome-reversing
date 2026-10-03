@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "RPISEC Malware Course",
-          "description": null,
+          "description": "RPISEC/Malware",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Offensive and Defensive Android Reversing",
-          "description": null,
+          "description": "rednaga/training",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -54,7 +54,7 @@
         {
           "node_type": "item",
           "title": "MachoView",
-          "description": null,
+          "description": "gdbinit/MachOView",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -81,7 +81,7 @@
         {
           "node_type": "item",
           "title": "fREedom",
-          "description": null,
+          "description": "cseagle/fREedom",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -108,7 +108,7 @@
         {
           "node_type": "item",
           "title": "angr",
-          "description": null,
+          "description": "angr/angr",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -117,8 +117,8 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-02T23:46:19Z",
-            "open_issues": 743,
+            "last_commit": "2026-10-03T04:57:02Z",
+            "open_issues": 746,
             "owner": "angr",
             "repo": "angr",
             "stars": 9123,
@@ -133,7 +133,7 @@
         {
           "node_type": "item",
           "title": "bap",
-          "description": null,
+          "description": "BinaryAnalysisPlatform/bap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -180,7 +180,7 @@
         {
           "node_type": "item",
           "title": "dnSpy",
-          "description": null,
+          "description": "dnSpy/dnSpy",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -207,7 +207,7 @@
         {
           "node_type": "item",
           "title": "Scylla",
-          "description": null,
+          "description": "NtQuery/Scylla",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -234,7 +234,7 @@
         {
           "node_type": "item",
           "title": "Volatility",
-          "description": null,
+          "description": "volatilityfoundation/volatility",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -261,7 +261,7 @@
         {
           "node_type": "item",
           "title": "LiME",
-          "description": null,
+          "description": "jtsylve/LiME",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -282,7 +282,7 @@
         {
           "node_type": "item",
           "title": "Noriben",
-          "description": null,
+          "description": "Rurik/Noriben",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -309,7 +309,7 @@
         {
           "node_type": "item",
           "title": "unicorn",
-          "description": null,
+          "description": "unicorn-engine/unicorn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -322,7 +322,7 @@
             "open_issues": 228,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9394,
+            "stars": 9396,
             "topics": [
               "arm",
               "arm64",
@@ -349,7 +349,7 @@
         {
           "node_type": "item",
           "title": "vdb",
-          "description": null,
+          "description": "vivisect/vivisect",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -428,7 +428,7 @@
         {
           "node_type": "item",
           "title": "onehawt IDA Plugin List",
-          "description": null,
+          "description": "onethawt/idaplugins-list",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -449,7 +449,7 @@
         {
           "node_type": "item",
           "title": "pefile Python Libray",
-          "description": null,
+          "description": "erocarrera/pefile",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -470,7 +470,7 @@
         {
           "node_type": "item",
           "title": "IDA Python Src",
-          "description": null,
+          "description": "idapython/src",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -491,7 +491,7 @@
         {
           "node_type": "item",
           "title": "ghidra ninja",
-          "description": null,
+          "description": "ghidraninja/ghidra_scripts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -518,7 +518,7 @@
         {
           "node_type": "item",
           "title": "yarGen",
-          "description": null,
+          "description": "Neo23x0/yarGen",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -546,7 +546,7 @@
         {
           "node_type": "item",
           "title": "yabin",
-          "description": null,
+          "description": "AlienVault-OTX/yabin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:32:43.972Z",
+    "last_updated": "2026-10-03T05:05:06.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
