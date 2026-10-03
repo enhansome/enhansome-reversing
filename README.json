@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4210,
+            "stars": 4213,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-03T04:57:02Z",
-            "open_issues": 746,
+            "last_commit": "2026-10-03T23:39:02Z",
+            "open_issues": 754,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9123,
+            "stars": 9124,
             "topics": [
               "analysis",
               "angr",
@@ -220,7 +220,7 @@
             "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1438,
+            "stars": 1440,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -322,7 +322,7 @@
             "open_issues": 228,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9396,
+            "stars": 9397,
             "topics": [
               "arm",
               "arm64",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:05:06.875Z",
+    "last_updated": "2026-10-03T23:53:39.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
