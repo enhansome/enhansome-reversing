@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "rednaga",
             "repo": "training",
-            "stars": 430,
+            "stars": 431,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,8 +117,8 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-03T23:39:02Z",
-            "open_issues": 754,
+            "last_commit": "2026-10-04T16:52:31Z",
+            "open_issues": 752,
             "owner": "angr",
             "repo": "angr",
             "stars": 9124,
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29671,
+            "stars": 29672,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -247,7 +247,7 @@
             "open_issues": 221,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8059,
+            "stars": 8058,
             "topics": [
               "malware",
               "memory",
@@ -319,10 +319,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-08-28T09:09:56Z",
-            "open_issues": 228,
+            "open_issues": 229,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9397,
+            "stars": 9399,
             "topics": [
               "arm",
               "arm64",
@@ -504,7 +504,7 @@
             "open_issues": 13,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1173,
+            "stars": 1174,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T23:53:39.793Z",
+    "last_updated": "2026-10-04T23:59:18.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
@@ -581,7 +581,7 @@
       "open_issues": 18,
       "owner": "tylerha97",
       "repo": "awesome-reversing",
-      "stars": 4524,
+      "stars": 4525,
       "topics": []
     },
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
