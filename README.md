@@ -148,8 +148,8 @@ A curated list of awesome reversing resources
 
 *Binary Analysis Resources*
 
-* [angr](https://github.com/angr/angr) ⭐ 9,124 | 🐛 752 | 🌐 Python | 📅 2026-10-04
-* [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,261 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07
+* [angr](https://github.com/angr/angr) ⭐ 9,126 | 🐛 762 | 🌐 Python | 📅 2026-10-06
+* [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,262 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [z3](https://z3.codeplex.com/)
 
@@ -198,7 +198,7 @@ A curated list of awesome reversing resources
 
 *Debugging Tools*
 
-* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,399 | 🐛 229 | 🌐 C | 📅 2026-08-28
+* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,402 | 🐛 229 | 🌐 C | 📅 2026-08-28
 * [vdb](https://github.com/vivisect/vivisect) ⭐ 1,001 | 🐛 121 | 🌐 Python | 📅 2026-09-29
 * [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
 * [OllyDbg v1.10](http://www.ollydbg.de/)
@@ -249,7 +249,7 @@ A curated list of awesome reversing resources
 
 * [Android Developer Studio](http://developer.android.com/sdk/index.html)
 * [APKtool](http://ibotpeaches.github.io/Apktool/)
-* [dex2jar](https://github.com/pxb1988/dex2jar) ⭐ 13,145 | 🐛 380 | 🌐 Java | 📅 2024-07-21
+* [dex2jar](https://github.com/pxb1988/dex2jar) ⭐ 13,143 | 🐛 380 | 🌐 Java | 📅 2024-07-21
 * [Bytecode Viewer](https://bytecodeviewer.com/)
 * [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
 
@@ -265,4 +265,4 @@ A curated list of awesome reversing resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

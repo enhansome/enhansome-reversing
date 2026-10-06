@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-04T16:52:31Z",
-            "open_issues": 752,
+            "last_commit": "2026-10-06T00:55:32Z",
+            "open_issues": 762,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9124,
+            "stars": 9126,
             "topics": [
               "analysis",
               "angr",
@@ -146,7 +146,7 @@
             "open_issues": 43,
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
-            "stars": 2261,
+            "stars": 2262,
             "topics": [
               "arm",
               "bap",
@@ -247,7 +247,7 @@
             "open_issues": 221,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8058,
+            "stars": 8057,
             "topics": [
               "malware",
               "memory",
@@ -322,7 +322,7 @@
             "open_issues": 229,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9399,
+            "stars": 9402,
             "topics": [
               "arm",
               "arm64",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T23:59:18.392Z",
+    "last_updated": "2026-10-06T01:46:55.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
