@@ -56,7 +56,7 @@ A curated list of awesome reversing resources
 
 *Reverse Engineering Courses*
 
-* [RPISEC Malware Course](https://github.com/RPISEC/Malware) ⭐ 4,213 | 🐛 1 | 📅 2022-08-26
+* [RPISEC Malware Course](https://github.com/RPISEC/Malware) ⭐ 4,215 | 🐛 1 | 📅 2022-08-26
 * [Offensive and Defensive Android Reversing](https://github.com/rednaga/training/raw/master/DEFCON23/O%26D%20-%20Android%20Reverse%20Engineering.pdf) ⭐ 431 | 🐛 0 | 📅 2018-01-02
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 * [Open Security Training](http://opensecuritytraining.info/Training.html)
@@ -148,7 +148,7 @@ A curated list of awesome reversing resources
 
 *Binary Analysis Resources*
 
-* [angr](https://github.com/angr/angr) ⭐ 9,128 | 🐛 763 | 🌐 Python | 📅 2026-10-06
+* [angr](https://github.com/angr/angr) ⭐ 9,131 | 🐛 766 | 🌐 Python | 📅 2026-10-08
 * [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,262 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [z3](https://z3.codeplex.com/)
@@ -175,7 +175,7 @@ A curated list of awesome reversing resources
 *Dynamic Analysis Tools*
 
 * [Volatility](https://github.com/volatilityfoundation/volatility) ⚠️ Archived
-* [LiME](https://github.com/504ensicsLabs/LiME) ⭐ 2,044 | 🐛 35 | 🌐 C | 📅 2026-04-05
+* [LiME](https://github.com/504ensicsLabs/LiME) ⭐ 2,045 | 🐛 35 | 🌐 C | 📅 2026-04-05
 * [Noriben](https://github.com/Rurik/Noriben) ⭐ 1,303 | 🐛 9 | 🌐 Python | 📅 2026-09-18
 * [ProcessHacker](http://processhacker.sourceforge.net/)
 * [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer)
@@ -198,8 +198,8 @@ A curated list of awesome reversing resources
 
 *Debugging Tools*
 
-* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,406 | 🐛 230 | 🌐 C | 📅 2026-08-28
-* [vdb](https://github.com/vivisect/vivisect) ⭐ 1,000 | 🐛 121 | 🌐 Python | 📅 2026-09-29
+* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,408 | 🐛 232 | 🌐 C | 📅 2026-08-28
+* [vdb](https://github.com/vivisect/vivisect) ⭐ 1,000 | 🐛 121 | 🌐 Python | 📅 2026-10-07
 * [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
 * [OllyDbg v1.10](http://www.ollydbg.de/)
 * [OllyDbg v2.01](http://www.ollydbg.de/version2.html)
@@ -233,8 +233,8 @@ A curated list of awesome reversing resources
 
 *Scripting*
 
-* [onehawt IDA Plugin List](https://github.com/onethawt/idaplugins-list) ⭐ 3,839 | 🐛 8 | 📅 2024-05-31
-* [pefile Python Libray](https://github.com/erocarrera/pefile) ⭐ 2,074 | 🐛 65 | 🌐 Python | 📅 2026-10-06
+* [onehawt IDA Plugin List](https://github.com/onethawt/idaplugins-list) ⭐ 3,838 | 🐛 8 | 📅 2024-05-31
+* [pefile Python Libray](https://github.com/erocarrera/pefile) ⭐ 2,073 | 🐛 66 | 🌐 Python | 📅 2026-10-06
 * [IDA Python Src](https://github.com/idapython/src) ⚠️ Archived
 * [ghidra ninja](https://github.com/ghidraninja/ghidra_scripts) ⭐ 1,175 | 🐛 13 | 🌐 YARA | 📅 2020-10-07
 * [IDC Functions Doc](https://www.hex-rays.com/products/ida/support/idadoc/162.shtml)
@@ -249,7 +249,7 @@ A curated list of awesome reversing resources
 
 * [Android Developer Studio](http://developer.android.com/sdk/index.html)
 * [APKtool](http://ibotpeaches.github.io/Apktool/)
-* [dex2jar](https://github.com/pxb1988/dex2jar) ⭐ 13,142 | 🐛 380 | 🌐 Java | 📅 2024-07-21
+* [dex2jar](https://github.com/pxb1988/dex2jar) ⭐ 13,143 | 🐛 380 | 🌐 Java | 📅 2024-07-21
 * [Bytecode Viewer](https://bytecodeviewer.com/)
 * [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
 
@@ -265,4 +265,4 @@ A curated list of awesome reversing resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
