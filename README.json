@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4215,
+            "stars": 4391,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-08T01:01:42Z",
-            "open_issues": 766,
+            "last_commit": "2026-10-09T00:57:09Z",
+            "open_issues": 762,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9131,
+            "stars": 9132,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29671,
+            "stars": 29672,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -220,7 +220,7 @@
             "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1440,
+            "stars": 1442,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -274,7 +274,7 @@
             "open_issues": 35,
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2045,
+            "stars": 2046,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -359,10 +359,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-07T16:23:23Z",
-            "open_issues": 121,
+            "open_issues": 122,
             "owner": "vivisect",
             "repo": "vivisect",
-            "stars": 1000,
+            "stars": 1001,
             "topics": [
               "disassembler",
               "emulation",
@@ -441,7 +441,7 @@
             "open_issues": 8,
             "owner": "onethawt",
             "repo": "idaplugins-list",
-            "stars": 3838,
+            "stars": 3839,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T01:03:40.235Z",
+    "last_updated": "2026-10-09T01:16:03.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
@@ -581,7 +581,7 @@
       "open_issues": 18,
       "owner": "tylerha97",
       "repo": "awesome-reversing",
-      "stars": 4526,
+      "stars": 4527,
       "topics": []
     },
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
