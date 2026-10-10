@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4391,
+            "stars": 4459,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-09T00:57:09Z",
-            "open_issues": 762,
+            "last_commit": "2026-10-10T00:34:49Z",
+            "open_issues": 764,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9132,
+            "stars": 9133,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29672,
+            "stars": 29673,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -220,7 +220,7 @@
             "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1442,
+            "stars": 1443,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -322,7 +322,7 @@
             "open_issues": 232,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9408,
+            "stars": 9411,
             "topics": [
               "arm",
               "arm64",
@@ -359,10 +359,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-07T16:23:23Z",
-            "open_issues": 122,
+            "open_issues": 123,
             "owner": "vivisect",
             "repo": "vivisect",
-            "stars": 1001,
+            "stars": 1002,
             "topics": [
               "disassembler",
               "emulation",
@@ -458,7 +458,7 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T14:51:09Z",
+            "last_commit": "2026-10-09T12:41:25Z",
             "open_issues": 66,
             "owner": "erocarrera",
             "repo": "pefile",
@@ -504,7 +504,7 @@
             "open_issues": 13,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1175,
+            "stars": 1177,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T01:16:03.529Z",
+    "last_updated": "2026-10-10T00:58:41.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
