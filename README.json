@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4479,
+            "stars": 4488,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-10T23:37:04Z",
-            "open_issues": 772,
+            "last_commit": "2026-10-11T15:04:38Z",
+            "open_issues": 780,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9138,
+            "stars": 9142,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29673,
+            "stars": 29672,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -322,7 +322,7 @@
             "open_issues": 234,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9415,
+            "stars": 9421,
             "topics": [
               "arm",
               "arm64",
@@ -441,7 +441,7 @@
             "open_issues": 8,
             "owner": "onethawt",
             "repo": "idaplugins-list",
-            "stars": 3840,
+            "stars": 3841,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -458,11 +458,11 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-10T12:55:36Z",
-            "open_issues": 67,
+            "last_commit": "2026-10-11T15:13:50Z",
+            "open_issues": 66,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2074,
+            "stars": 2076,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T00:16:04.051Z",
+    "last_updated": "2026-10-12T00:37:17.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
