@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4488,
+            "stars": 4501,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-11T15:04:38Z",
-            "open_issues": 780,
+            "last_commit": "2026-10-13T02:14:55Z",
+            "open_issues": 784,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9142,
+            "stars": 9147,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29672,
+            "stars": 29670,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -220,7 +220,7 @@
             "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1443,
+            "stars": 1444,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -295,7 +295,7 @@
             "open_issues": 9,
             "owner": "Rurik",
             "repo": "Noriben",
-            "stars": 1303,
+            "stars": 1302,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -322,7 +322,7 @@
             "open_issues": 234,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9421,
+            "stars": 9431,
             "topics": [
               "arm",
               "arm64",
@@ -359,7 +359,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-07T16:23:23Z",
-            "open_issues": 123,
+            "open_issues": 124,
             "owner": "vivisect",
             "repo": "vivisect",
             "stars": 1002,
@@ -441,7 +441,7 @@
             "open_issues": 8,
             "owner": "onethawt",
             "repo": "idaplugins-list",
-            "stars": 3841,
+            "stars": 3842,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -458,7 +458,7 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-11T15:13:50Z",
+            "last_commit": "2026-10-12T09:26:43Z",
             "open_issues": 66,
             "owner": "erocarrera",
             "repo": "pefile",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T00:37:17.779Z",
+    "last_updated": "2026-10-13T02:36:46.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
