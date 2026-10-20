@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4551,
+            "stars": 4558,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -67,7 +67,7 @@
             "open_issues": 16,
             "owner": "gdbinit",
             "repo": "MachOView",
-            "stars": 2870,
+            "stars": 2871,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-20T00:18:15Z",
-            "open_issues": 766,
+            "last_commit": "2026-10-20T23:52:46Z",
+            "open_issues": 758,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9222,
+            "stars": 9226,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29662,
+            "stars": 29658,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -247,7 +247,7 @@
             "open_issues": 221,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8052,
+            "stars": 8053,
             "topics": [
               "malware",
               "memory",
@@ -319,10 +319,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-18T15:17:01Z",
-            "open_issues": 224,
+            "open_issues": 226,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9470,
+            "stars": 9475,
             "topics": [
               "arm",
               "arm64",
@@ -531,7 +531,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1818,
+            "stars": 1819,
             "topics": [
               "malware",
               "malware-analysis",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T00:25:46.563Z",
+    "last_updated": "2026-10-20T23:57:11.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
