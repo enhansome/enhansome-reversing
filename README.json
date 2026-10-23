@@ -67,7 +67,7 @@
             "open_issues": 16,
             "owner": "gdbinit",
             "repo": "MachOView",
-            "stars": 2871,
+            "stars": 2872,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-22T19:55:56Z",
-            "open_issues": 768,
+            "last_commit": "2026-10-23T22:16:31Z",
+            "open_issues": 769,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9231,
+            "stars": 9235,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29660,
+            "stars": 29659,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -319,10 +319,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-18T15:17:01Z",
-            "open_issues": 228,
+            "open_issues": 233,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9479,
+            "stars": 9481,
             "topics": [
               "arm",
               "arm64",
@@ -441,7 +441,7 @@
             "open_issues": 8,
             "owner": "onethawt",
             "repo": "idaplugins-list",
-            "stars": 3842,
+            "stars": 3844,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T00:00:53.699Z",
+    "last_updated": "2026-10-23T23:52:43.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
@@ -581,7 +581,7 @@
       "open_issues": 19,
       "owner": "tylerha97",
       "repo": "awesome-reversing",
-      "stars": 4528,
+      "stars": 4527,
       "topics": []
     },
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
