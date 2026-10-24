@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4563,
+            "stars": 4565,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-23T22:16:31Z",
-            "open_issues": 769,
+            "last_commit": "2026-10-24T07:40:14Z",
+            "open_issues": 768,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9235,
+            "stars": 9236,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29659,
+            "stars": 29661,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -220,7 +220,7 @@
             "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1449,
+            "stars": 1450,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -274,7 +274,7 @@
             "open_issues": 35,
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2053,
+            "stars": 2054,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -462,7 +462,7 @@
             "open_issues": 71,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2078,
+            "stars": 2079,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -531,7 +531,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1821,
+            "stars": 1822,
             "topics": [
               "malware",
               "malware-analysis",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:52:43.306Z",
+    "last_updated": "2026-10-24T23:21:45.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
@@ -581,7 +581,7 @@
       "open_issues": 19,
       "owner": "tylerha97",
       "repo": "awesome-reversing",
-      "stars": 4527,
+      "stars": 4526,
       "topics": []
     },
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
