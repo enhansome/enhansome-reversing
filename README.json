@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4568,
+            "stars": 4566,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-29T00:51:40Z",
-            "open_issues": 784,
+            "last_commit": "2026-10-29T23:53:31Z",
+            "open_issues": 794,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9260,
+            "stars": 9266,
             "topics": [
               "analysis",
               "angr",
@@ -319,10 +319,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-18T15:17:01Z",
-            "open_issues": 237,
+            "open_issues": 240,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9503,
+            "stars": 9512,
             "topics": [
               "arm",
               "arm64",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T01:02:28.774Z",
+    "last_updated": "2026-10-30T01:07:37.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
