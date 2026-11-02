@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-31T21:03:12Z",
-            "open_issues": 796,
+            "last_commit": "2026-11-01T12:39:15Z",
+            "open_issues": 801,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9270,
+            "stars": 9275,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29660,
+            "stars": 29658,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -322,7 +322,7 @@
             "open_issues": 243,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9519,
+            "stars": 9523,
             "topics": [
               "arm",
               "arm64",
@@ -441,7 +441,7 @@
             "open_issues": 8,
             "owner": "onethawt",
             "repo": "idaplugins-list",
-            "stars": 3849,
+            "stars": 3850,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -458,8 +458,8 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T14:15:08Z",
-            "open_issues": 68,
+            "last_commit": "2026-11-01T14:16:38Z",
+            "open_issues": 67,
             "owner": "erocarrera",
             "repo": "pefile",
             "stars": 2082,
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T00:11:35.313Z",
+    "last_updated": "2026-11-02T00:51:23.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
@@ -578,7 +578,7 @@
       "language": null,
       "license": null,
       "last_commit": "2023-08-19T07:30:45Z",
-      "open_issues": 20,
+      "open_issues": 19,
       "owner": "tylerha97",
       "repo": "awesome-reversing",
       "stars": 4528,
