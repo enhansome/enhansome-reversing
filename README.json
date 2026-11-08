@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-06T22:47:41Z",
-            "open_issues": 803,
+            "last_commit": "2026-11-07T22:56:46Z",
+            "open_issues": 805,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9328,
+            "stars": 9340,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29653,
+            "stars": 29652,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -274,7 +274,7 @@
             "open_issues": 36,
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2056,
+            "stars": 2057,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -322,7 +322,7 @@
             "open_issues": 257,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9542,
+            "stars": 9545,
             "topics": [
               "arm",
               "arm64",
@@ -362,7 +362,7 @@
             "open_issues": 127,
             "owner": "vivisect",
             "repo": "vivisect",
-            "stars": 1002,
+            "stars": 1003,
             "topics": [
               "disassembler",
               "emulation",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:58:22.696Z",
+    "last_updated": "2026-11-08T00:44:52.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",

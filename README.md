@@ -43,7 +43,7 @@ A curated list of awesome reversing resources
 * [The Rootkit Arsenal](http://amzn.com/144962636X)
 * [Windows Internals Part 1](http://amzn.com/0735648735) [Part 2](http://amzn.com/0735665877)
 * [Inside Windows Debugging](http://amzn.com/0735662789)
-* [iOS Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) ⭐ 4,464 | 🐛 7 | 📅 2015-10-30
+* [iOS Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) ⭐ 4,466 | 🐛 7 | 📅 2015-10-30
 * [The Shellcoders Handbook](http://a.co/6H55943)
 * [A Guide to Kernel Exploitation](http://a.co/aM4cENn)
 * [Agner's software optimization resources](http://www.agner.org/optimize/)
@@ -148,7 +148,7 @@ A curated list of awesome reversing resources
 
 *Binary Analysis Resources*
 
-* [angr](https://github.com/angr/angr) ⭐ 9,328 | 🐛 803 | 🌐 Python | 📅 2026-11-06
+* [angr](https://github.com/angr/angr) ⭐ 9,340 | 🐛 805 | 🌐 Python | 📅 2026-11-07
 * [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,263 | 🐛 42 | 🌐 OCaml | 📅 2026-05-07
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [z3](https://z3.codeplex.com/)
@@ -175,7 +175,7 @@ A curated list of awesome reversing resources
 *Dynamic Analysis Tools*
 
 * [Volatility](https://github.com/volatilityfoundation/volatility) ⚠️ Archived
-* [LiME](https://github.com/504ensicsLabs/LiME) ⭐ 2,056 | 🐛 36 | 🌐 C | 📅 2026-04-05
+* [LiME](https://github.com/504ensicsLabs/LiME) ⭐ 2,057 | 🐛 36 | 🌐 C | 📅 2026-04-05
 * [Noriben](https://github.com/Rurik/Noriben) ⭐ 1,322 | 🐛 9 | 🌐 Python | 📅 2026-11-03
 * [ProcessHacker](http://processhacker.sourceforge.net/)
 * [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer)
@@ -198,8 +198,8 @@ A curated list of awesome reversing resources
 
 *Debugging Tools*
 
-* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,542 | 🐛 257 | 🌐 C | 📅 2026-10-18
-* [vdb](https://github.com/vivisect/vivisect) ⭐ 1,002 | 🐛 127 | 🌐 Python | 📅 2026-10-21
+* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,545 | 🐛 257 | 🌐 C | 📅 2026-10-18
+* [vdb](https://github.com/vivisect/vivisect) ⭐ 1,003 | 🐛 127 | 🌐 Python | 📅 2026-10-21
 * [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
 * [OllyDbg v1.10](http://www.ollydbg.de/)
 * [OllyDbg v2.01](http://www.ollydbg.de/version2.html)
@@ -265,4 +265,4 @@ A curated list of awesome reversing resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
