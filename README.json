@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4576,
+            "stars": 4577,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-10T22:03:37Z",
-            "open_issues": 811,
+            "last_commit": "2026-11-11T18:18:20Z",
+            "open_issues": 809,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9368,
+            "stars": 9369,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29655,
+            "stars": 29659,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -220,7 +220,7 @@
             "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1456,
+            "stars": 1457,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -247,7 +247,7 @@
             "open_issues": 221,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8057,
+            "stars": 8058,
             "topics": [
               "malware",
               "memory",
@@ -319,10 +319,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-11-10T13:58:02Z",
-            "open_issues": 256,
+            "open_issues": 260,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9557,
+            "stars": 9561,
             "topics": [
               "arm",
               "arm64",
@@ -458,7 +458,7 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T17:12:25Z",
+            "last_commit": "2026-11-11T16:34:01Z",
             "open_issues": 54,
             "owner": "erocarrera",
             "repo": "pefile",
@@ -483,7 +483,7 @@
             "open_issues": 6,
             "owner": "idapython",
             "repo": "src",
-            "stars": 1536,
+            "stars": 1537,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -504,7 +504,7 @@
             "open_issues": 13,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1182,
+            "stars": 1183,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T01:17:54.300Z",
+    "last_updated": "2026-11-12T02:17:49.013Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
@@ -581,7 +581,7 @@
       "open_issues": 19,
       "owner": "tylerha97",
       "repo": "awesome-reversing",
-      "stars": 4529,
+      "stars": 4531,
       "topics": []
     },
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
