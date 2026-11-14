@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-13T01:26:23Z",
-            "open_issues": 810,
+            "last_commit": "2026-11-14T01:05:43Z",
+            "open_issues": 809,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9371,
+            "stars": 9375,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29653,
+            "stars": 29652,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -247,7 +247,7 @@
             "open_issues": 221,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8057,
+            "stars": 8059,
             "topics": [
               "malware",
               "memory",
@@ -274,7 +274,7 @@
             "open_issues": 36,
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2059,
+            "stars": 2061,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -319,10 +319,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-11-10T13:58:02Z",
-            "open_issues": 262,
+            "open_issues": 265,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9566,
+            "stars": 9572,
             "topics": [
               "arm",
               "arm64",
@@ -458,8 +458,8 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-12T10:30:28Z",
-            "open_issues": 55,
+            "last_commit": "2026-11-13T12:05:27Z",
+            "open_issues": 57,
             "owner": "erocarrera",
             "repo": "pefile",
             "stars": 2085,
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T01:56:03.017Z",
+    "last_updated": "2026-11-14T01:29:18.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
