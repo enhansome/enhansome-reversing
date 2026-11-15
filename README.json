@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4577,
+            "stars": 4579,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-14T01:05:43Z",
-            "open_issues": 809,
+            "last_commit": "2026-11-14T10:11:41Z",
+            "open_issues": 810,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9375,
+            "stars": 9379,
             "topics": [
               "analysis",
               "angr",
@@ -146,7 +146,7 @@
             "open_issues": 42,
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
-            "stars": 2263,
+            "stars": 2264,
             "topics": [
               "arm",
               "bap",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29652,
+            "stars": 29648,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -220,7 +220,7 @@
             "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1456,
+            "stars": 1458,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -319,10 +319,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-11-10T13:58:02Z",
-            "open_issues": 265,
+            "open_issues": 269,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9572,
+            "stars": 9574,
             "topics": [
               "arm",
               "arm64",
@@ -362,7 +362,7 @@
             "open_issues": 126,
             "owner": "vivisect",
             "repo": "vivisect",
-            "stars": 1003,
+            "stars": 1004,
             "topics": [
               "disassembler",
               "emulation",
@@ -531,7 +531,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1825,
+            "stars": 1826,
             "topics": [
               "malware",
               "malware-analysis",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T01:29:18.240Z",
+    "last_updated": "2026-11-15T01:05:51.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
@@ -581,7 +581,7 @@
       "open_issues": 19,
       "owner": "tylerha97",
       "repo": "awesome-reversing",
-      "stars": 4532,
+      "stars": 4531,
       "topics": []
     },
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
