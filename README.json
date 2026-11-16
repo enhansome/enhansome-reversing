@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "rednaga",
             "repo": "training",
-            "stars": 431,
+            "stars": 430,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -118,10 +118,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-11-14T10:11:41Z",
-            "open_issues": 810,
+            "open_issues": 819,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9379,
+            "stars": 9383,
             "topics": [
               "analysis",
               "angr",
@@ -143,7 +143,7 @@
             "language": "OCaml",
             "license": "MIT",
             "last_commit": "2026-05-07T15:28:41Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
             "stars": 2264,
@@ -274,7 +274,7 @@
             "open_issues": 36,
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2061,
+            "stars": 2062,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -322,7 +322,7 @@
             "open_issues": 269,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9574,
+            "stars": 9577,
             "topics": [
               "arm",
               "arm64",
@@ -358,7 +358,7 @@
             "id": 26651759,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T15:07:49Z",
+            "last_commit": "2026-11-16T00:56:26Z",
             "open_issues": 126,
             "owner": "vivisect",
             "repo": "vivisect",
@@ -462,7 +462,7 @@
             "open_issues": 57,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2085,
+            "stars": 2087,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -531,7 +531,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1826,
+            "stars": 1827,
             "topics": [
               "malware",
               "malware-analysis",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T01:05:51.933Z",
+    "last_updated": "2026-11-16T01:07:41.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
