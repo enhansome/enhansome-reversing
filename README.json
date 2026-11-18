@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4581,
+            "stars": 4583,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-16T21:14:50Z",
-            "open_issues": 812,
+            "last_commit": "2026-11-17T14:03:01Z",
+            "open_issues": 813,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9383,
+            "stars": 9386,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29646,
+            "stars": 29652,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -220,7 +220,7 @@
             "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1460,
+            "stars": 1461,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -319,10 +319,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-11-10T13:58:02Z",
-            "open_issues": 274,
+            "open_issues": 275,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9581,
+            "stars": 9590,
             "topics": [
               "arm",
               "arm64",
@@ -359,10 +359,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-16T00:56:26Z",
-            "open_issues": 126,
+            "open_issues": 125,
             "owner": "vivisect",
             "repo": "vivisect",
-            "stars": 1004,
+            "stars": 1005,
             "topics": [
               "disassembler",
               "emulation",
@@ -504,7 +504,7 @@
             "open_issues": 13,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1185,
+            "stars": 1184,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -531,7 +531,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1827,
+            "stars": 1828,
             "topics": [
               "malware",
               "malware-analysis",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T03:58:46.797Z",
+    "last_updated": "2026-11-18T02:57:15.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
@@ -581,7 +581,7 @@
       "open_issues": 19,
       "owner": "tylerha97",
       "repo": "awesome-reversing",
-      "stars": 4530,
+      "stars": 4529,
       "topics": []
     },
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",

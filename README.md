@@ -43,7 +43,7 @@ A curated list of awesome reversing resources
 * [The Rootkit Arsenal](http://amzn.com/144962636X)
 * [Windows Internals Part 1](http://amzn.com/0735648735) [Part 2](http://amzn.com/0735665877)
 * [Inside Windows Debugging](http://amzn.com/0735662789)
-* [iOS Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) ⭐ 4,476 | 🐛 7 | 📅 2015-10-30
+* [iOS Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) ⭐ 4,478 | 🐛 7 | 📅 2015-10-30
 * [The Shellcoders Handbook](http://a.co/6H55943)
 * [A Guide to Kernel Exploitation](http://a.co/aM4cENn)
 * [Agner's software optimization resources](http://www.agner.org/optimize/)
@@ -56,7 +56,7 @@ A curated list of awesome reversing resources
 
 *Reverse Engineering Courses*
 
-* [RPISEC Malware Course](https://github.com/RPISEC/Malware) ⭐ 4,581 | 🐛 1 | 📅 2022-08-26
+* [RPISEC Malware Course](https://github.com/RPISEC/Malware) ⭐ 4,583 | 🐛 1 | 📅 2022-08-26
 * [Offensive and Defensive Android Reversing](https://github.com/rednaga/training/raw/master/DEFCON23/O%26D%20-%20Android%20Reverse%20Engineering.pdf) ⭐ 430 | 🐛 0 | 📅 2018-01-02
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 * [Open Security Training](http://opensecuritytraining.info/Training.html)
@@ -148,7 +148,7 @@ A curated list of awesome reversing resources
 
 *Binary Analysis Resources*
 
-* [angr](https://github.com/angr/angr) ⭐ 9,383 | 🐛 812 | 🌐 Python | 📅 2026-11-16
+* [angr](https://github.com/angr/angr) ⭐ 9,386 | 🐛 813 | 🌐 Python | 📅 2026-11-17
 * [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,264 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [z3](https://z3.codeplex.com/)
@@ -166,7 +166,7 @@ A curated list of awesome reversing resources
 
 *Import Reconstruction Tools*
 
-* [Scylla](https://github.com/NtQuery/Scylla) ⭐ 1,460 | 🐛 23 | 🌐 C++ | 📅 2023-04-05
+* [Scylla](https://github.com/NtQuery/Scylla) ⭐ 1,461 | 🐛 23 | 🌐 C++ | 📅 2023-04-05
 * [ImpRec](http://www.woodmann.com/collaborative/tools/index.php/ImpREC)
 * [LordPE](http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip)
 
@@ -198,8 +198,8 @@ A curated list of awesome reversing resources
 
 *Debugging Tools*
 
-* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,581 | 🐛 274 | 🌐 C | 📅 2026-11-10
-* [vdb](https://github.com/vivisect/vivisect) ⭐ 1,004 | 🐛 126 | 🌐 Python | 📅 2026-11-16
+* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,590 | 🐛 275 | 🌐 C | 📅 2026-11-10
+* [vdb](https://github.com/vivisect/vivisect) ⭐ 1,005 | 🐛 125 | 🌐 Python | 📅 2026-11-16
 * [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
 * [OllyDbg v1.10](http://www.ollydbg.de/)
 * [OllyDbg v2.01](http://www.ollydbg.de/version2.html)
@@ -236,7 +236,7 @@ A curated list of awesome reversing resources
 * [onehawt IDA Plugin List](https://github.com/onethawt/idaplugins-list) ⭐ 3,853 | 🐛 8 | 📅 2024-05-31
 * [pefile Python Libray](https://github.com/erocarrera/pefile) ⭐ 2,087 | 🐛 56 | 🌐 Python | 📅 2026-11-16
 * [IDA Python Src](https://github.com/idapython/src) ⚠️ Archived
-* [ghidra ninja](https://github.com/ghidraninja/ghidra_scripts) ⭐ 1,185 | 🐛 13 | 🌐 YARA | 📅 2020-10-07
+* [ghidra ninja](https://github.com/ghidraninja/ghidra_scripts) ⭐ 1,184 | 🐛 13 | 🌐 YARA | 📅 2020-10-07
 * [IDC Functions Doc](https://www.hex-rays.com/products/ida/support/idadoc/162.shtml)
 * [Using IDAPython to Make your Life Easier](http://researchcenter.paloaltonetworks.com/tag/idapython/)
 * [Introduction to IDA Python](https://tuts4you.com/download.php?view.3229)
@@ -257,7 +257,7 @@ A curated list of awesome reversing resources
 
 *Yara Resources*
 
-* [yarGen](https://github.com/Neo23x0/yarGen) ⭐ 1,827 | 🐛 14 | 🌐 Python | 📅 2026-01-10
+* [yarGen](https://github.com/Neo23x0/yarGen) ⭐ 1,828 | 🐛 14 | 🌐 Python | 📅 2026-01-10
 * [yabin](https://github.com/AlienVault-OTX/yabin) ⭐ 166 | 🐛 4 | 🌐 Python | 📅 2022-09-11
 * [Yara docs](http://yara.readthedocs.org/en/v3.4.0/writingrules.html)
 * [Cheatsheet](https://gist.github.com/tylerha97/eeabc765e9befad9b80a)
@@ -265,4 +265,4 @@ A curated list of awesome reversing resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
