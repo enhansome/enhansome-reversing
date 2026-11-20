@@ -67,7 +67,7 @@
             "open_issues": 17,
             "owner": "gdbinit",
             "repo": "MachOView",
-            "stars": 2873,
+            "stars": 2874,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -118,10 +118,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-11-18T19:56:42Z",
-            "open_issues": 813,
+            "open_issues": 814,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9391,
+            "stars": 9396,
             "topics": [
               "analysis",
               "angr",
@@ -146,7 +146,7 @@
             "open_issues": 43,
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
-            "stars": 2264,
+            "stars": 2262,
             "topics": [
               "arm",
               "bap",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29653,
+            "stars": 29652,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -220,7 +220,7 @@
             "open_issues": 23,
             "owner": "NtQuery",
             "repo": "Scylla",
-            "stars": 1461,
+            "stars": 1463,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -274,7 +274,7 @@
             "open_issues": 36,
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2063,
+            "stars": 2062,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -295,7 +295,7 @@
             "open_issues": 9,
             "owner": "Rurik",
             "repo": "Noriben",
-            "stars": 1328,
+            "stars": 1327,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -322,7 +322,7 @@
             "open_issues": 279,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9592,
+            "stars": 9593,
             "topics": [
               "arm",
               "arm64",
@@ -362,7 +362,7 @@
             "open_issues": 125,
             "owner": "vivisect",
             "repo": "vivisect",
-            "stars": 1005,
+            "stars": 1004,
             "topics": [
               "disassembler",
               "emulation",
@@ -441,7 +441,7 @@
             "open_issues": 8,
             "owner": "onethawt",
             "repo": "idaplugins-list",
-            "stars": 3855,
+            "stars": 3854,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -458,7 +458,7 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T16:36:24Z",
+            "last_commit": "2026-11-19T08:28:20Z",
             "open_issues": 56,
             "owner": "erocarrera",
             "repo": "pefile",
@@ -504,7 +504,7 @@
             "open_issues": 12,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1185,
+            "stars": 1184,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -531,7 +531,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1828,
+            "stars": 1827,
             "topics": [
               "malware",
               "malware-analysis",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:38:54.684Z",
+    "last_updated": "2026-11-20T02:23:47.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
@@ -581,7 +581,7 @@
       "open_issues": 19,
       "owner": "tylerha97",
       "repo": "awesome-reversing",
-      "stars": 4529,
+      "stars": 4528,
       "topics": []
     },
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
