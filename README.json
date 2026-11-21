@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4584,
+            "stars": 4586,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-18T19:56:42Z",
-            "open_issues": 814,
+            "last_commit": "2026-11-20T22:07:47Z",
+            "open_issues": 818,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9396,
+            "stars": 9400,
             "topics": [
               "analysis",
               "angr",
@@ -146,7 +146,7 @@
             "open_issues": 43,
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
-            "stars": 2262,
+            "stars": 2263,
             "topics": [
               "arm",
               "bap",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29652,
+            "stars": 29651,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -319,10 +319,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-11-10T13:58:02Z",
-            "open_issues": 279,
+            "open_issues": 280,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9593,
+            "stars": 9598,
             "topics": [
               "arm",
               "arm64",
@@ -441,7 +441,7 @@
             "open_issues": 8,
             "owner": "onethawt",
             "repo": "idaplugins-list",
-            "stars": 3854,
+            "stars": 3855,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -458,7 +458,7 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-19T08:28:20Z",
+            "last_commit": "2026-11-20T12:05:40Z",
             "open_issues": 56,
             "owner": "erocarrera",
             "repo": "pefile",
@@ -504,7 +504,7 @@
             "open_issues": 12,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1184,
+            "stars": 1185,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T02:23:47.391Z",
+    "last_updated": "2026-11-21T02:28:39.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
@@ -578,7 +578,7 @@
       "language": null,
       "license": null,
       "last_commit": "2023-08-19T07:30:45Z",
-      "open_issues": 19,
+      "open_issues": 20,
       "owner": "tylerha97",
       "repo": "awesome-reversing",
       "stars": 4528,
