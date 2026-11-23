@@ -67,7 +67,7 @@
             "open_issues": 17,
             "owner": "gdbinit",
             "repo": "MachOView",
-            "stars": 2874,
+            "stars": 2875,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -118,10 +118,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-11-20T22:07:47Z",
-            "open_issues": 820,
+            "open_issues": 822,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9405,
+            "stars": 9408,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29648,
+            "stars": 29649,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -319,10 +319,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-11-10T13:58:02Z",
-            "open_issues": 280,
+            "open_issues": 282,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9600,
+            "stars": 9602,
             "topics": [
               "arm",
               "arm64",
@@ -458,11 +458,11 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-21T09:47:51Z",
+            "last_commit": "2026-11-22T12:12:42Z",
             "open_issues": 55,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2088,
+            "stars": 2091,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T01:25:00.734Z",
+    "last_updated": "2026-11-23T01:48:56.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",

@@ -117,7 +117,7 @@ A curated list of awesome reversing resources
 
 *Binary Format Tools*
 
-* [MachoView](https://github.com/gdbinit/MachOView) ⭐ 2,874 | 🐛 17 | 🌐 C | 📅 2024-07-22
+* [MachoView](https://github.com/gdbinit/MachOView) ⭐ 2,875 | 🐛 17 | 🌐 C | 📅 2024-07-22
 * [CFF Explorer](http://www.ntcore.com/exsuite.php)
 * [Cerbero Profiler](http://cerbero.io/profiler/) // [Lite PE Insider](http://cerbero.io/peinsider/)
 * [Detect It Easy](http://ntinfo.biz/)
@@ -148,7 +148,7 @@ A curated list of awesome reversing resources
 
 *Binary Analysis Resources*
 
-* [angr](https://github.com/angr/angr) ⭐ 9,405 | 🐛 820 | 🌐 Python | 📅 2026-11-20
+* [angr](https://github.com/angr/angr) ⭐ 9,408 | 🐛 822 | 🌐 Python | 📅 2026-11-20
 * [bap](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,263 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [z3](https://z3.codeplex.com/)
@@ -198,7 +198,7 @@ A curated list of awesome reversing resources
 
 *Debugging Tools*
 
-* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,600 | 🐛 280 | 🌐 C | 📅 2026-11-10
+* [unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,602 | 🐛 282 | 🌐 C | 📅 2026-11-10
 * [vdb](https://github.com/vivisect/vivisect) ⭐ 1,004 | 🐛 125 | 🌐 Python | 📅 2026-11-16
 * [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
 * [OllyDbg v1.10](http://www.ollydbg.de/)
@@ -234,7 +234,7 @@ A curated list of awesome reversing resources
 *Scripting*
 
 * [onehawt IDA Plugin List](https://github.com/onethawt/idaplugins-list) ⭐ 3,855 | 🐛 8 | 📅 2024-05-31
-* [pefile Python Libray](https://github.com/erocarrera/pefile) ⭐ 2,088 | 🐛 55 | 🌐 Python | 📅 2026-11-21
+* [pefile Python Libray](https://github.com/erocarrera/pefile) ⭐ 2,091 | 🐛 55 | 🌐 Python | 📅 2026-11-22
 * [IDA Python Src](https://github.com/idapython/src) ⚠️ Archived
 * [ghidra ninja](https://github.com/ghidraninja/ghidra_scripts) ⭐ 1,186 | 🐛 12 | 🌐 YARA | 📅 2020-10-07
 * [IDC Functions Doc](https://www.hex-rays.com/products/ida/support/idadoc/162.shtml)
@@ -265,4 +265,4 @@ A curated list of awesome reversing resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
