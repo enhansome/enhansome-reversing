@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4587,
+            "stars": 4588,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-23T22:15:47Z",
-            "open_issues": 822,
+            "last_commit": "2026-11-25T00:08:51Z",
+            "open_issues": 824,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9411,
+            "stars": 9415,
             "topics": [
               "analysis",
               "angr",
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29646,
+            "stars": 29648,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -295,7 +295,7 @@
             "open_issues": 9,
             "owner": "Rurik",
             "repo": "Noriben",
-            "stars": 1328,
+            "stars": 1329,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -322,7 +322,7 @@
             "open_issues": 283,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9608,
+            "stars": 9612,
             "topics": [
               "arm",
               "arm64",
@@ -458,8 +458,8 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-22T12:12:42Z",
-            "open_issues": 55,
+            "last_commit": "2026-11-24T11:05:04Z",
+            "open_issues": 56,
             "owner": "erocarrera",
             "repo": "pefile",
             "stars": 2092,
@@ -531,7 +531,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "yarGen",
-            "stars": 1827,
+            "stars": 1828,
             "topics": [
               "malware",
               "malware-analysis",
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T05:21:20.684Z",
+    "last_updated": "2026-11-25T04:18:10.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
@@ -581,7 +581,7 @@
       "open_issues": 20,
       "owner": "tylerha97",
       "repo": "awesome-reversing",
-      "stars": 4525,
+      "stars": 4527,
       "topics": []
     },
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
