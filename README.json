@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4587,
+            "stars": 4589,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -121,7 +121,7 @@
             "open_issues": 827,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9417,
+            "stars": 9422,
             "topics": [
               "analysis",
               "angr",
@@ -143,7 +143,7 @@
             "language": "OCaml",
             "license": "MIT",
             "last_commit": "2026-05-07T15:28:41Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
             "stars": 2263,
@@ -193,7 +193,7 @@
             "open_issues": 185,
             "owner": "dnSpy",
             "repo": "dnSpy",
-            "stars": 29650,
+            "stars": 29652,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -247,7 +247,7 @@
             "open_issues": 221,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8058,
+            "stars": 8059,
             "topics": [
               "malware",
               "memory",
@@ -274,7 +274,7 @@
             "open_issues": 36,
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2063,
+            "stars": 2064,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -295,7 +295,7 @@
             "open_issues": 9,
             "owner": "Rurik",
             "repo": "Noriben",
-            "stars": 1329,
+            "stars": 1330,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -322,7 +322,7 @@
             "open_issues": 283,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9614,
+            "stars": 9619,
             "topics": [
               "arm",
               "arm64",
@@ -458,8 +458,8 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-25T12:42:15Z",
-            "open_issues": 54,
+            "last_commit": "2026-11-26T08:16:43Z",
+            "open_issues": 55,
             "owner": "erocarrera",
             "repo": "pefile",
             "stars": 2092,
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:38:15.445Z",
+    "last_updated": "2026-11-27T03:39:58.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
@@ -581,7 +581,7 @@
       "open_issues": 20,
       "owner": "tylerha97",
       "repo": "awesome-reversing",
-      "stars": 4527,
+      "stars": 4528,
       "topics": []
     },
     "original_repository_sha": "0b7bb2b40797e996578d5175408efc7d6aac5dca",
