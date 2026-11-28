@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4589,
+            "stars": 4588,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -117,11 +117,11 @@
             "id": 40328394,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-26T03:36:09Z",
+            "last_commit": "2026-11-28T00:32:32Z",
             "open_issues": 827,
             "owner": "angr",
             "repo": "angr",
-            "stars": 9422,
+            "stars": 9426,
             "topics": [
               "analysis",
               "angr",
@@ -319,10 +319,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-11-10T13:58:02Z",
-            "open_issues": 283,
+            "open_issues": 284,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9619,
+            "stars": 9620,
             "topics": [
               "arm",
               "arm64",
@@ -458,11 +458,11 @@
             "id": 33870982,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-26T08:16:43Z",
-            "open_issues": 55,
+            "last_commit": "2026-11-27T13:56:45Z",
+            "open_issues": 59,
             "owner": "erocarrera",
             "repo": "pefile",
-            "stars": 2092,
+            "stars": 2091,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:30.950Z"
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:39:58.251Z",
+    "last_updated": "2026-11-28T03:20:54.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome reversing resources",
